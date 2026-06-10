@@ -4,4 +4,4 @@ xcodebuild \
   -workspace alt-tab-macos.xcworkspace \
   -scheme Debug \
   -configuration Debug \
-  -derivedDataPath ~/git/alt-tab-macos/DerivedData
+  -derivedDataPath ~/Downloads/Apple_Projects/my-fork--alt-tab-macos
