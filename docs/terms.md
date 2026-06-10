@@ -51,7 +51,7 @@ Total aggregate liability shall not exceed the amount you paid for your license.
 
 ## 7. Changes to these Terms
 
-These Terms may be updated from time to time. Changes will be posted on the AltTab website. Continued use of AltTab after changes are posted constitutes acceptance of the revised Terms.
+These Terms may be updated from time to time. Changes will be posted on the AltTab GitHub repository. Continued use of AltTab after changes are posted constitutes acceptance of the revised Terms.
 
 ## 8. Governing law
 

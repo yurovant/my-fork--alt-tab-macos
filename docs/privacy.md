@@ -23,8 +23,6 @@ If the application crashes, you may be prompted to send a crash report. This is 
 
 ## Update checks
 
-AltTab periodically checks for updates using the Sparkle framework. This connects to our server to compare your installed version with the latest release. No personal data is transmitted during this check. Your IP address is visible to the server as part of the network connection.
-
 ## Feedback
 
 AltTab includes an optional feedback form. If you submit feedback, it is posted as a public issue on AltTab's GitHub repository. Do not include personal information in your feedback unless you are comfortable with it being publicly visible. No account or email is required to submit feedback.
@@ -37,7 +35,6 @@ If you purchase AltTab Pro, the app contacts Lemon Squeezy's API to validate you
 
 - **Lemon Squeezy** (payment processing and license validation): subject to [Lemon Squeezy's privacy policy](https://www.lemonsqueezy.com/privacy).
 - **Microsoft AppCenter** (optional crash reports): subject to [Microsoft's privacy statement](https://privacy.microsoft.com/privacystatement).
-- **Sparkle** (update checks): connects to GitHub/our server. No personal data transmitted.
 - **GitHub** (feedback form): submitted feedback is posted as a public issue. Subject to [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 ## Data storage and retention
@@ -54,7 +51,7 @@ AltTab does not knowingly collect any data from children under 16.
 
 ## Changes to this policy
 
-This policy may be updated from time to time. Changes will be posted on the AltTab website.
+This policy may be updated from time to time. Changes will be posted on the AltTab GitHub repository.
 
 ## Contact
 

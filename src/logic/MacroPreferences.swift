@@ -448,16 +448,6 @@ enum AppearanceThemePreference: CaseIterable, SfSymbolMacroPreference {
     }
 }
 
-enum UpdatePolicyPreference: CaseIterable, MacroPreference {
-    case manual
-    case autoCheck
-    case autoInstall
-
-    var localizedString: LocalizedString {
-        ""
-    }
-}
-
 enum CrashPolicyPreference: CaseIterable, MacroPreference {
     case never
     case ask

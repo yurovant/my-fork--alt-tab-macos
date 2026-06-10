@@ -33,7 +33,6 @@ class PreferencesEvents {
         UserDefaultsEvents.observe()
         ControlsTab.initializePreferencesDependentState()
         applyMenubarPreferencesIfReady()
-        applyUpdatePolicyPreference()
         TrackpadEvents.toggle(Preferences.nextWindowGesture != .disabled)
         DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
             applyStartAtLoginPreference()
@@ -54,7 +53,6 @@ class PreferencesEvents {
         case "menubarIcon", "menubarIconShown": applyMenubarPreferencesIfReady()
         case "nextWindowGesture": TrackpadEvents.toggle(Preferences.nextWindowGesture != .disabled)
         case "startAtLogin": applyStartAtLoginPreference()
-        case "updatePolicy": applyUpdatePolicyPreference()
         case let k where preferencesRequiringUiReset.contains(k) && TilesPanel.shared != nil: App.resetPreferencesDependentComponents()
         default: break
         }
@@ -63,10 +61,6 @@ class PreferencesEvents {
     private static func applyMenubarPreferencesIfReady() {
         guard Menubar.statusItem != nil else { return }
         Menubar.menubarIconCallback(nil)
-    }
-
-    private static func applyUpdatePolicyPreference() {
-        // Updater integration is disabled in this fork.
     }
 
     private static func applyStartAtLoginPreference() {
