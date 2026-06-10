@@ -1,17 +1,33 @@
-/.idea/
-xcuserdata/
-/.vscode/
-/buildServer.json
-WorkspaceSettings.xcsettings
-IDEWorkspaceChecks.plist
-/node_modules/
-/DerivedData/
-/build/
+# OS and generic local metadata
 .DS_Store
+/buildServer.json
+
+# Local assistant/editor state
+/.claude/worktrees/
+/.idea/
+/.vscode/
+
+# Dependencies and generated outputs
+/node_modules/
+/build/
 /docs/_site/
 /docs/vendor/
+
+# Xcode derived artifacts and caches
+/DerivedData/
+/CompilationCache.noindex/
+/Index.noindex/
+/Logs/
+/ModuleCache.noindex/
+/SDKStatCaches.noindex/
+
+# Xcode workspace/user settings
+IDEWorkspaceChecks.plist
+WorkspaceSettings.xcsettings
+xcuserdata/
+
+# Local code-signing materials
 codesign.conf
 codesign.crt
 codesign.key
 codesign.p12
-/.claude/worktrees/
