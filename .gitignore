@@ -10,8 +10,6 @@
 # Dependencies and generated outputs
 /node_modules/
 /build/
-/docs/_site/
-/docs/vendor/
 
 # Xcode derived artifacts and caches
 /DerivedData/
