@@ -400,7 +400,6 @@
 		5F2218AE2F156BC6005769F9 /* mascot-dog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mascot-dog.png"; sourceTree = "<group>"; };
 		5F2218AF2F156BC6005769F9 /* mascot-rabbit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mascot-rabbit.png"; sourceTree = "<group>"; };
 		5F2218B02F156BC6005769F9 /* mascot-squirrel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mascot-squirrel.png"; sourceTree = "<group>"; };
-		5F3A72C12F8CE76D00E2D433 /* appcast.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = appcast.xml; sourceTree = "<group>"; };
 		5F3C6CCF2F8CE7120021CEDF /* extract_latest_changelog.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = extract_latest_changelog.sh; sourceTree = "<group>"; };
 		5F706EBD2BA448B1004D542D /* is */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = is; path = Localizable.strings; sourceTree = "<group>"; };
 		5F706EC22BA448D8004D542D /* is */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = is; path = InfoPlist.strings; sourceTree = "<group>"; };
@@ -611,7 +610,6 @@
 		D04BA084F638725465234830 /* favicon-16x16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "favicon-16x16.png"; sourceTree = "<group>"; };
 		D04BA088B8A550D9367A4AAB /* it */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = it; path = InfoPlist.strings; sourceTree = "<group>"; };
 		D04BA099FA155FB4D517D66B /* SettingsWindow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsWindow.swift; sourceTree = "<group>"; };
-		D04BA0AAAE82C72855DBBA26 /* update_appcast.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = update_appcast.sh; sourceTree = "<group>"; };
 		D04BA0CE87BE264C52987ED1 /* 7 windows - 2 lines - wide window.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "7 windows - 2 lines - wide window.jpg"; sourceTree = "<group>"; };
 		D04BA0E071D2EDFDB9A20523 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D04BA0E11E83F177B07EE19C /* fr */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = fr; path = Localizable.strings; sourceTree = "<group>"; };
@@ -717,7 +715,6 @@
 		D04BAAB92261FC04854FDDE9 /* App.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		D04BAADF01EB8FF8A15AECC6 /* acknowledgments.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = acknowledgments.md; sourceTree = "<group>"; };
 		D04BAAE6E6823304D66B74F8 /* update_website.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = update_website.sh; sourceTree = "<group>"; };
-		D04BAAF760E3A8A22BDA84D6 /* appcast.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = appcast.xml; sourceTree = "<group>"; };
 		D04BAAF79737A0673502FEB5 /* AppCenterApplication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppCenterApplication.h; sourceTree = "<group>"; };
 		D04BAB08AD95CD9024BEE95A /* fi */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = fi; path = InfoPlist.strings; sourceTree = "<group>"; };
 		D04BAB51808B6118EB00DFC7 /* mstile-150x150.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mstile-150x150.png"; sourceTree = "<group>"; };
@@ -1473,7 +1470,6 @@
 				D04BA2C9EF33A646D0977195 /* .github */,
 				4807A6C423A9CD190052A53E /* Frameworks */,
 				D04BA0E071D2EDFDB9A20523 /* Podfile */,
-				D04BAAF760E3A8A22BDA84D6 /* appcast.xml */,
 				D04BA6251F309645757C6000 /* src */,
 				D04BAF1058D2599E6E8ABBA6 /* Info.plist */,
 				D04BAF6F617FCA44D1F75B60 /* alt_tab_macos.entitlements */,
@@ -1760,7 +1756,6 @@
 				5FE2AF752EAE849F004A4AC5 /* xcbeautify */,
 				D04BA4B5292629AA6B560216 /* package_and_notarize_release.sh */,
 				D04BAC6AFC7F06D1A567F27A /* replace_environment_variables_in_app.sh */,
-				D04BA0AAAE82C72855DBBA26 /* update_appcast.sh */,
 				D04BA4FB0047656BEA21F1BE /* codesign */,
 				D04BAD65AA870A49D2F89DBC /* ensure_generated_files_are_up_to_date.sh */,
 				D04BA4D5DF349429527824A2 /* determine_next_version.sh */,
@@ -2070,7 +2065,6 @@
 		D04BAD1F5F5D4427DEA16682 /* docs */ = {
 			isa = PBXGroup;
 			children = (
-				5F3A72C12F8CE76D00E2D433 /* appcast.xml */,
 				5F895B8D2F8CE336007842A1 /* changelog-wrapper.md */,
 				5F895B8E2F8CE336007842A1 /* privacy.md */,
 				5F895B8F2F8CE336007842A1 /* terms.md */,
@@ -2477,14 +2471,12 @@
 				"${PODS_ROOT}/Target Support Files/Pods-alt-tab-macos/Pods-alt-tab-macos-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/LetsMove/LetsMove.framework",
 				"${BUILT_PRODUCTS_DIR}/ShortcutRecorder/ShortcutRecorder.framework",
-				"${PODS_ROOT}/Sparkle/Sparkle.framework",
 				"${BUILT_PRODUCTS_DIR}/SwiftyBeaver/SwiftyBeaver.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/LetsMove.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ShortcutRecorder.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Sparkle.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyBeaver.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -454,11 +454,7 @@ enum UpdatePolicyPreference: CaseIterable, MacroPreference {
     case autoInstall
 
     var localizedString: LocalizedString {
-        switch self {
-            case .manual: return NSLocalizedString("Don’t check for updates periodically", comment: "")
-            case .autoCheck: return NSLocalizedString("Check for updates periodically", comment: "")
-            case .autoInstall: return NSLocalizedString("Auto-install updates periodically", comment: "")
-        }
+        ""
     }
 }
 

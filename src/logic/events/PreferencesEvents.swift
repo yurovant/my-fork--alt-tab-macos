@@ -1,5 +1,4 @@
 import Cocoa
-import Sparkle
 
 class PreferencesEvents {
     private static var initialized = false
@@ -67,11 +66,7 @@ class PreferencesEvents {
     }
 
     private static func applyUpdatePolicyPreference() {
-        GeneralTab.policyLock = true
-        let policy = Preferences.updatePolicy
-        SUUpdater.shared().automaticallyDownloadsUpdates = policy == .autoInstall
-        SUUpdater.shared().automaticallyChecksForUpdates = policy == .autoInstall || policy == .autoCheck
-        GeneralTab.policyLock = false
+        // Updater integration is disabled in this fork.
     }
 
     private static func applyStartAtLoginPreference() {

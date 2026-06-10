@@ -13,11 +13,9 @@ class App: AppCenterApplication {
     static let name = Bundle.main.object(forInfoDictionaryKey: "CFBundleName") as! String
     static let version = Bundle.main.object(forInfoDictionaryKey: "CFBundleVersion") as! String
     static let licence = Bundle.main.object(forInfoDictionaryKey: "NSHumanReadableCopyright") as! String
-    static let repository = "https://github.com/lwouis/alt-tab-macos"
-    static let website = "https://alt-tab.app"
+    static let repository = "https://github.com/yurovant/my-fork--alt-tab-macos"
     static let appIcon = CGImage.named("app.icns")
     override class var shared: App { super.shared as! App }
-    static var supportProjectAction: Selector { #selector(App.supportProject) }
     static var isTerminating = false
     static var appIsBeingUsed = false
     static var shortcutIndex = 0
@@ -141,16 +139,8 @@ class App: AppCenterApplication {
         focusSelectedWindow(selectedWindow)
     }
 
-    @objc static func checkForUpdatesNow(_ sender: NSMenuItem) {
-        GeneralTab.checkForUpdatesNow(sender)
-    }
-
     @objc static func checkPermissions(_ sender: NSMenuItem) {
         showPermissionsWindow()
-    }
-
-    @objc static func supportProject() {
-        NSWorkspace.shared.open(URL(string: App.website + "/support")!)
     }
 
     @objc static func showFeedbackPanel() {
