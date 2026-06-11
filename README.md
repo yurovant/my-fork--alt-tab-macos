@@ -7,20 +7,23 @@
 <b>Building the project</b>
 
 <p>This project has minimal dependency on Xcode-only features (e.g. InterfaceBuilder, Playgrounds). You can build it by doing:</p>
+1. Wipe generated/downloaded local artifacts:
 
-1. Install CocoaPods dependencies:
+- `scripts/wipe_generated_and_downloaded.sh`
+
+2. Install CocoaPods dependencies:
 
 - `pod install`
 
-2. Generate and import the local self-signed certificate used by this project:
+3. Generate and import the local self-signed certificate used by this project:
 
-- `bash scripts/codesign/setup_local.sh`
+- `scripts/codesign/setup_local.sh`
 
-3. Build the app:
+4. Build the app:
 
 - `scripts/build_app_debug.sh`
 
-4. Run the built app:
+5. Run the built app:
 
 - `open DerivedData/Build/Products/Debug/AltTab.app`
 
@@ -29,6 +32,8 @@ Notes:
 - This historical branch still declares `MACOSX_DEPLOYMENT_TARGET = 10.12`. On modern Xcode versions you may see warnings about the minimum supported deployment target range. These warnings are expected as long as the build succeeds.
 - `Pipfile` tooling is optional for app compilation. It is used by some maintenance scripts.
 - You can also open `alt-tab-macos.xcworkspace` in Xcode and build the `Debug` scheme from there.
+- If Accessibility permission gets stuck or AltTab does not show in the list, reset TCC for this bundle ID and relaunch:
+  - `tccutil reset Accessibility com.lwouis.alt-tab-macos`
 
 ## Mac development
 
