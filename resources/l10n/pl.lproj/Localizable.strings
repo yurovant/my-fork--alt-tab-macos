@@ -19,7 +19,6 @@
 "Align windows" = "Wyrównaj okna";
 "Align windows:" = "Wyrównaj okna:";
 "All apps" = "Wszystkich aplikacji";
-"All data from this form will be made public, as a ticket on github.com" = "Wszystkie dane z tego formularza zostaną upublicznione jako zgłoszenie na github.com";
 "All screens" = "Wszystkich ekranów";
 "All Spaces" = "Wszystkich przestrzeni";
 "Allowed" = "Dozwolone";
@@ -112,7 +111,6 @@
 "Hold" = "Przytrzymaj";
 "Horizontal Swipe with Four Fingers" = "Poziome Przeciągnięcie Czterema Palcami";
 "Horizontal Swipe with Three Fingers" = "Poziome Przeciągnięcie Trzema Palcami";
-"I think the app could be improved with…" = "Myślę, że aplikacja może zostać ulepszona dzięki…";
 "Ignore shortcuts when active" = "Ignoruj skrót gdy aktywny";
 "Ignore shortcuts while a window from these apps is active" = "Ignoruj skróty podczas gdy jedna z tych aplikacji jest aktywna";
 "Import settings…" = "Importuj ustawienia…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Otwórz Ustawienia Gładzika...";
 "Optional: email (if you want a reply)" = "Opcjonalne: email (jeśli chcesz odpowiedź)";
 "Order windows by" = "Sortuj okna według";
-"Please fill in the form" = "Proszę uzupełnić formularz";
 "Policies" = "Polityki";
 "Preferences…" = "Preferencje…";
 "Preview selected window" = "Podświetlaj wybrane okno";
@@ -192,12 +189,8 @@
 "Send" = "Wyślij";
 "Send a crash report?" = "Wysłać raport crasha?";
 "Send anyway" = "Wyślij mimo to";
-"Send debug profile (CPU, memory, etc)" = "Wyślij profil debugowania (CPU, pamięć, itp.)";
-"Send feedback" = "Wyślij feedback";
-"Send feedback…" = "Wyślij feedback…";
 "Settings imported" = "Ustawienia zaimportowane";
 "Settings…" = "Ustawienia";
-"Share improvement ideas, or report bugs" = "Podziel się pomysłami na ulepszenia lub zgłoś błąd";
 "Shortcut" = "Skrót";
 "Shortcut 1" = "Skrót 1";
 "Shortcut 2" = "Skrót 2";
@@ -266,7 +259,6 @@
 "Version" = "Wersja";
 "Vertical Swipe with Four Fingers" = "Pionowe Przeciągnięcie Czterema Palcami";
 "Vertical Swipe with Three Fingers" = "Pionowe Przeciągnięcie Trzema Palcami";
-"View existing discussions" = "Wyświetl istniejące dyskusje";
 "Vim keys" = "Klawisze Vim";
 "Vim keys already assigned to other actions:\n%@" = "Klawisze Vim są już przyporządkowane to innych akcji: %@";
 "Visibility" = "Widoczność";

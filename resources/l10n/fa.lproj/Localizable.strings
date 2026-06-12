@@ -19,7 +19,6 @@
 "Align windows" = "ویندوز را تراز کنید";
 "Align windows:" = "هم‌تراز کردن پنجره‌ها:";
 "All apps" = "همه برنامه ها";
-"All data from this form will be made public, as a ticket on github.com" = "تمام داده های این فرم به عنوان بلیط در github.com علنی می شوند";
 "All screens" = "تمام صفحه ها";
 "All Spaces" = "All Spaces";
 "Allowed" = "مجاز";
@@ -112,7 +111,6 @@
 "Hold" = "نگه داشتن";
 "Horizontal Swipe with Four Fingers" = "کشیدن افقی با چهار انگشت";
 "Horizontal Swipe with Three Fingers" = "کشیدن افقی با سه انگشت";
-"I think the app could be improved with…" = "من گمان می‌کنم این نرم‌افزار می‌تواند بهتر شود به طریق...";
 "Ignore shortcuts when active" = "Ignore shortcuts when active";
 "Ignore shortcuts while a window from these apps is active" = "نادیده گرفتن میانبرها هنگامی که پنجره‌ای از این برنامه‌ها فعال است";
 "Import settings…" = "ورودی گرفتن از تنظیمات…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "باز کردن تنظیمات ترک‌پد…";
 "Optional: email (if you want a reply)" = "انتخابی:‌ آدرس ایمیل (اگر می‌خواهید پاسخ بدهید)";
 "Order windows by" = "سفارش پنجره ها توسط";
-"Please fill in the form" = "لطفاً فرم را پر کنید";
 "Policies" = "Policies";
 "Preferences…" = "ترجیحات...";
 "Preview selected window" = "پیش نمایش پنجره انتخاب شده";
@@ -192,12 +189,8 @@
 "Send" = "ارسال";
 "Send a crash report?" = "Send a crash report?";
 "Send anyway" = "Send anyway";
-"Send debug profile (CPU, memory, etc)" = "ارسال پروفایل دیباگ (CPU، حافظه، و غیره)";
-"Send feedback" = "ارسال بازخورد";
-"Send feedback…" = "ارسال بازخورد...";
 "Settings imported" = "تنظیمات وارد شدند";
 "Settings…" = "تنظیمات";
-"Share improvement ideas, or report bugs" = "ایده های بهبود را به اشتراک بگذارید ، یا اشکالات را گزارش دهید";
 "Shortcut" = "میانبر";
 "Shortcut 1" = "Shortcut 1";
 "Shortcut 2" = "Shortcut 2";
@@ -266,7 +259,6 @@
 "Version" = "نسخه";
 "Vertical Swipe with Four Fingers" = "کشیدن عمودی با چهار انگشت";
 "Vertical Swipe with Three Fingers" = "کشیدن عمودی با سه انگشت";
-"View existing discussions" = "بحث های موجود را مشاهده کنید";
 "Vim keys" = "کلیدهای Vim";
 "Vim keys already assigned to other actions:\n%@" = "کلیدهای VIM قبلاً به اقدامات دیگر اختصاص داده شده اند: \\ n ٪@";
 "Visibility" = "دید";

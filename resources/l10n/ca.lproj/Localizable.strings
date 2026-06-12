@@ -19,7 +19,6 @@
 "Align windows" = "Alinear finestres";
 "Align windows:" = "Alinear finestres:";
 "All apps" = "Totes les aplicacions";
-"All data from this form will be made public, as a ticket on github.com" = "Les dades es faran públiques a github.com";
 "All screens" = "Totes les pantalles";
 "All Spaces" = "Tots els espais";
 "Allowed" = "Permès";
@@ -112,7 +111,6 @@
 "Hold" = "Mantén";
 "Horizontal Swipe with Four Fingers" = "Lliscament horizontal amb quatre dits";
 "Horizontal Swipe with Three Fingers" = "Lliscament horitzontal amb tres dits";
-"I think the app could be improved with…" = "Crec que l'aplicació milloraria si…";
 "Ignore shortcuts when active" = "Ignorar dreceres quan està activa";
 "Ignore shortcuts while a window from these apps is active" = "Ignorar dreceres si una finestra d'aquestes aplicacions està activa";
 "Import settings…" = "Importar la configuració…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Obrir les opcions del trackpad…";
 "Optional: email (if you want a reply)" = "Opcional: adreça de correu (si esperes resposta)";
 "Order windows by" = "Ordenar finestres per";
-"Please fill in the form" = "Si us plau completa el formulari";
 "Policies" = "Polítiques";
 "Preferences…" = "Configuració…";
 "Preview selected window" = "Previsualitzar finestra seleccionada";
@@ -192,12 +189,8 @@
 "Send" = "Enviar";
 "Send a crash report?" = "Enviar informe d'error?";
 "Send anyway" = "Enviar de totes maneres";
-"Send debug profile (CPU, memory, etc)" = "Enviar perfil de diagnòstic (CPU, memòria, etc.)";
-"Send feedback" = "Enviar comentaris";
-"Send feedback…" = "Enviar comentaris…";
 "Settings imported" = "Configuració importada";
 "Settings…" = "Configuració";
-"Share improvement ideas, or report bugs" = "Proposa millores o informa de problemes";
 "Shortcut" = "Drecera";
 "Shortcut 1" = "Drecera 1";
 "Shortcut 2" = "Drecera 2";
@@ -266,7 +259,6 @@
 "Version" = "Versió";
 "Vertical Swipe with Four Fingers" = "Lliscament vertical amb quatre dits";
 "Vertical Swipe with Three Fingers" = "Lliscament vertical amb tres dits";
-"View existing discussions" = "Veure discussions en curs";
 "Vim keys" = "Tecles de Vim";
 "Vim keys already assigned to other actions:\n%@" = "Tecles de Vim ja en ús:\n%@";
 "Visibility" = "Visibilitat";

@@ -19,7 +19,6 @@
 "Align windows" = "Lijn vensters uit";
 "Align windows:" = "Lijn vensters uit:";
 "All apps" = "Alle programma’s";
-"All data from this form will be made public, as a ticket on github.com" = "Alle informatie ingevuld in dit formulier wordt openbaar gemaakt in een ticket op github.com";
 "All screens" = "Alle beeldschermen";
 "All Spaces" = "Alle spaces";
 "Allowed" = "Toegestaan";
@@ -112,7 +111,6 @@
 "Hold" = "Houd";
 "Horizontal Swipe with Four Fingers" = "Veeg horizontaal met 4 vingers";
 "Horizontal Swipe with Three Fingers" = "Veeg horizontaal met 3 vingers";
-"I think the app could be improved with…" = "Ik denk dat het programma verbeterd kan worden door…";
 "Ignore shortcuts when active" = "Negeer snelkoppeling wanneer actief";
 "Ignore shortcuts while a window from these apps is active" = "Negeer snelkoppeling als één van deze vensters actief is";
 "Import settings…" = "Instellingen importeren…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Open Trackpad-instellingen…";
 "Optional: email (if you want a reply)" = "Optioneel: e-mail (als je een reactie wilt ontvangen)";
 "Order windows by" = "Rangschik ramen bij";
-"Please fill in the form" = "Vul alstublieft het formulier in";
 "Policies" = "Beleid";
 "Preferences…" = "Voorkeuren…";
 "Preview selected window" = "Preview geselecteerd venster";
@@ -192,12 +189,8 @@
 "Send" = "Verstuur";
 "Send a crash report?" = "Crashrapport versturen?";
 "Send anyway" = "Verstuur toch";
-"Send debug profile (CPU, memory, etc)" = "Verstuur debug-profiel (CPU, geheugen, enz.)";
-"Send feedback" = "Verstuur feedback";
-"Send feedback…" = "Verstuur feedback…";
 "Settings imported" = "Instellingen geïmporteerd";
 "Settings…" = "Instellingen";
-"Share improvement ideas, or report bugs" = "Deel verbeteringen of meld bugs";
 "Shortcut" = "Sneltoets";
 "Shortcut 1" = "Snelkoppeling 1";
 "Shortcut 2" = "Snelkoppeling 2";
@@ -266,7 +259,6 @@
 "Version" = "Versie";
 "Vertical Swipe with Four Fingers" = "Swipe Verticaal met Vier Vingers";
 "Vertical Swipe with Three Fingers" = "Swipe Verticaal met Drie Vingers";
-"View existing discussions" = "Bekijk bestaande discussies";
 "Vim keys" = "Vim toetsen";
 "Vim keys already assigned to other actions:\n%@" = "Vim toetsen al toegewezen aan andere acties:\n%@";
 "Visibility" = "Zichtbaarheid";

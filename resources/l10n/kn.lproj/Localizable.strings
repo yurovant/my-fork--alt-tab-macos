@@ -19,7 +19,6 @@
 "Align windows" = "Align windows";
 "Align windows:" = "ವಿಂಡೋಗಳನ್ನು ಜೋಡಿಸಿ:";
 "All apps" = "ಎಲ್ಲಾ ಆ್ಯಪ್ ಗಳು";
-"All data from this form will be made public, as a ticket on github.com" = "All data from this form will be made public, as a ticket on github.com";
 "All screens" = "ಎಲ್ಲ ಸ್ಕ್ರೀನ್ ಗಳು";
 "All Spaces" = "ಎಲ್ಲ ಜಾಗ ಗಳು";
 "Allowed" = "ಅನುಮತಿಸಲಾಗಿದೆ";
@@ -112,7 +111,6 @@
 "Hold" = "ಹಿಡಿ";
 "Horizontal Swipe with Four Fingers" = "ನಾಲ್ಕು ಬೆರಳುಗಳಿಂದ ಅಡ್ಡವಾಗಿ ಸ್ವೈಪ್ ಮಾಡಿ";
 "Horizontal Swipe with Three Fingers" = "ಮೂರು ಬೆರಳುಗಳಿಂದ ಅಡ್ಡವಾಗಿ ಸ್ವೈಪ್ ಮಾಡಿ";
-"I think the app could be improved with…" = "ತoತ್ರಾಂಶವನ್ನು ಹೀಗೆ ಸುಧಾರಿಸಬಹುದೆಂದು ನನ್ನ ಅನಿಸಿಕೆ…";
 "Ignore shortcuts when active" = "Ignore shortcuts when active";
 "Ignore shortcuts while a window from these apps is active" = "ಈ ಆ್ಯಪ್‌ಗಳ ವಿಂಡೋ ಸಕ್ರಿಯವಾಗಿದ್ದಾಗ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ಕಡೆಗಣಿಸಿ";
 "Import settings…" = "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಆಮದು ಮಾಡಿ…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "ಟ್ರ್ಯಾಕ್‌ಪ್ಯಾಡ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ…";
 "Optional: email (if you want a reply)" = "ಐಚ್ಛಿಕ: ಇಮೇಲ್ (ನಿಮಗೆ ಉತ್ತರಿಸಬೇಕಾದಲ್ಲಿ)";
 "Order windows by" = "Order windows by";
-"Please fill in the form" = "ದಯವಿಟ್ಟು ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ";
 "Policies" = "ನೀತಿಗಳು";
 "Preferences…" = "ಆದ್ಯತೆಗಳು…";
 "Preview selected window" = "Preview selected window";
@@ -192,12 +189,8 @@
 "Send" = "ಕಳುಹಿಸಿ";
 "Send a crash report?" = "ಕ್ರ್ಯಾಶ್ ರಿಪೋರ್ಟನ್ನು ಕಳುಹಿಸಬೇಕೆ?";
 "Send anyway" = "ಹೇಗಾದರೂ ಕಳುಹಿಸಿ";
-"Send debug profile (CPU, memory, etc)" = "ದೋಷಗಳನ್ನು ತೆಗೆದು ಹಾಕುವ ಮಾಹಿತಿ ಕಳುಹಿಸಿ (ಸಿಪಿಯು, ಮೆಮೊರಿ, ಮುಂತಾದವು)";
-"Send feedback" = "ಪ್ರತಿಕ್ರಿಯೆ ಕಳುಹಿಸಿ";
-"Send feedback…" = "ಪ್ರತಿಕ್ರಿಯೆ ಕಳುಹಿಸಿ…";
 "Settings imported" = "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಆಮದು ಮಾಡಲಾಗಿದೆ";
 "Settings…" = "ಸೆಟ್ಟಿಂಗ್‌ಗಳು";
-"Share improvement ideas, or report bugs" = "ಸುಧಾರಣೆ ಉಪಾಯಗಳು, ಅಥವಾ ದೋಷಗಳನ್ನು ವರದಿ ಮಾಡಿ";
 "Shortcut" = "ಶಾರ್ಟ್‌ಕಟ್";
 "Shortcut 1" = "Shortcut 1";
 "Shortcut 2" = "Shortcut 2";
@@ -266,7 +259,6 @@
 "Version" = "ಆವೃತ್ತಿ";
 "Vertical Swipe with Four Fingers" = "ನಾಲ್ಕು ಬೆರಳುಗಳಿಂದ ಲಂಬವಾಗಿ ಸ್ವೈಪ್ ಮಾಡಿ";
 "Vertical Swipe with Three Fingers" = "ಮೂರು ಬೆರಳುಗಳಿಂದ ಲಂಬವಾಗಿ ಸ್ವೈಪ್ ಮಾಡಿ";
-"View existing discussions" = "ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಚರ್ಚೆಗಳನ್ನು ನೋಡಿ";
 "Vim keys" = "ವಿಮ್ ಕೀಗಳು";
 "Vim keys already assigned to other actions:\n%@" = "Vim keys already assigned to other actions:\n%@";
 "Visibility" = "Visibility";

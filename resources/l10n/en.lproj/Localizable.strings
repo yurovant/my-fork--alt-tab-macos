@@ -19,7 +19,6 @@
 "Align windows" = "Align windows";
 "Align windows:" = "Align windows:";
 "All apps" = "All apps";
-"All data from this form will be made public, as a ticket on github.com" = "All data from this form will be made public, as a ticket on github.com";
 "All screens" = "All screens";
 "All Spaces" = "All Spaces";
 "Allowed" = "Allowed";
@@ -112,7 +111,6 @@
 "Hold" = "Hold";
 "Horizontal Swipe with Four Fingers" = "Horizontal Swipe with Four Fingers";
 "Horizontal Swipe with Three Fingers" = "Horizontal Swipe with Three Fingers";
-"I think the app could be improved with…" = "I think the app could be improved with…";
 "Ignore shortcuts when active" = "Ignore shortcuts when active";
 "Ignore shortcuts while a window from these apps is active" = "Ignore shortcuts while a window from these apps is active";
 "Import settings…" = "Import settings…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Open Trackpad Settings…";
 "Optional: email (if you want a reply)" = "Optional: email (if you want a reply)";
 "Order windows by" = "Order windows by";
-"Please fill in the form" = "Please fill in the form";
 "Policies" = "Policies";
 "Preferences…" = "Preferences…";
 "Preview selected window" = "Preview selected window";
@@ -192,12 +189,8 @@
 "Send" = "Send";
 "Send a crash report?" = "Send a crash report?";
 "Send anyway" = "Send anyway";
-"Send debug profile (CPU, memory, etc)" = "Send debug profile (CPU, memory, etc)";
-"Send feedback" = "Send feedback";
-"Send feedback…" = "Send feedback…";
 "Settings imported" = "Settings imported";
 "Settings…" = "Settings…";
-"Share improvement ideas, or report bugs" = "Share improvement ideas, or report bugs";
 "Shortcut" = "Shortcut";
 "Shortcut 1" = "Shortcut 1";
 "Shortcut 2" = "Shortcut 2";
@@ -266,7 +259,6 @@
 "Version" = "Version";
 "Vertical Swipe with Four Fingers" = "Vertical Swipe with Four Fingers";
 "Vertical Swipe with Three Fingers" = "Vertical Swipe with Three Fingers";
-"View existing discussions" = "View existing discussions";
 "Vim keys" = "Vim keys";
 "Vim keys already assigned to other actions:\n%@" = "Vim keys already assigned to other actions:\n%@";
 "Visibility" = "Visibility";

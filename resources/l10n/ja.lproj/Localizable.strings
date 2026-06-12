@@ -19,7 +19,6 @@
 "Align windows" = "ウィンドウの配置";
 "Align windows:" = "ウィンドウの配置：";
 "All apps" = "全てのアプリケーション";
-"All data from this form will be made public, as a ticket on github.com" = "こちらのフォームからのデータはgithub.com上でチケットとして公開になります。";
 "All screens" = "全てのスクリーン";
 "All Spaces" = "全てのデスクトップ";
 "Allowed" = "許可";
@@ -112,7 +111,6 @@
 "Hold" = " ";
 "Horizontal Swipe with Four Fingers" = "4本指で横方向にスワイプ";
 "Horizontal Swipe with Three Fingers" = "3本指で横方向にスワイプ";
-"I think the app could be improved with…" = "アプリの◯◯を改善したい…";
 "Ignore shortcuts when active" = "アクティブの間はショートカットを無効にする";
 "Ignore shortcuts while a window from these apps is active" = "これらのアプリのウィンドウがアクティブの間はショートカットを無効にする";
 "Import settings…" = "設定をインポート…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "トラックパッド設定を開く…";
 "Optional: email (if you want a reply)" = "任意：Eメール（返信を希望する場合）";
 "Order windows by" = "ウィンドウの順序";
-"Please fill in the form" = "フォームにご記入ください";
 "Policies" = "ポリシー";
 "Preferences…" = "環境設定…";
 "Preview selected window" = "選択したウィンドウをプレビューする";
@@ -192,12 +189,8 @@
 "Send" = "送信";
 "Send a crash report?" = "クラッシュレポートを送りますか？";
 "Send anyway" = "送信";
-"Send debug profile (CPU, memory, etc)" = "デバッグプロファイルを送信（CPU、メモリなど）";
-"Send feedback" = "フィードバック提出";
-"Send feedback…" = "フィードバック提出…";
 "Settings imported" = "設定をインポートしました";
 "Settings…" = "設定";
-"Share improvement ideas, or report bugs" = "改善点のご共有あるいはバグのご報告";
 "Shortcut" = "ショートカット";
 "Shortcut 1" = "ショートカット１";
 "Shortcut 2" = "ショートカット２";
@@ -266,7 +259,6 @@
 "Version" = "バージョン";
 "Vertical Swipe with Four Fingers" = "4本指で縦方向にスワイプ";
 "Vertical Swipe with Three Fingers" = "3本指で縦方向にスワイプ";
-"View existing discussions" = "既存のディスカッションを見る";
 "Vim keys" = "Vimのキーバインド";
 "Vim keys already assigned to other actions:\n%@" = "他のアクションに割り当てられているVimキー：%@";
 "Visibility" = "可視性";

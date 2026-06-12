@@ -19,7 +19,6 @@
 "Align windows" = "محاذاة النوافذ";
 "Align windows:" = "ترتيب النوافذ:";
 "All apps" = "كل البرامج";
-"All data from this form will be made public, as a ticket on github.com" = "كل البيانات في هده الاستمارة سوف تصبح متاحة بشكل عام على github.com";
 "All screens" = "كل الشاشات";
 "All Spaces" = "كل المساحات";
 "Allowed" = "مسموح";
@@ -112,7 +111,6 @@
 "Hold" = "ثبّت";
 "Horizontal Swipe with Four Fingers" = "مرر عرضياً بأربعة أصابع";
 "Horizontal Swipe with Three Fingers" = "مرر عرضياً بثلاثة أصابع";
-"I think the app could be improved with…" = "أعتقد أنه بالإمكان تطوير البرنامج بـ…";
 "Ignore shortcuts when active" = "تجاهل الاختصارات عند النشاط";
 "Ignore shortcuts while a window from these apps is active" = "لا تفعّل الإختصارات عندما تكون نافذة من أحد هذه التطبيقات مفعّلة";
 "Import settings…" = "استيراد الإعدادات…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "فتح إعدادات لوحة التعقب…";
 "Optional: email (if you want a reply)" = "اختياري: بريد (إذا كنت تريد رد)";
 "Order windows by" = "رتّب النوافذ حسب";
-"Please fill in the form" = "يرجى ملء النموذج";
 "Policies" = "سياسات";
 "Preferences…" = "التفضيلات…";
 "Preview selected window" = "معاينة نافذة محددة";
@@ -192,12 +189,8 @@
 "Send" = "إرسال";
 "Send a crash report?" = "هل تريد إرسال بلاغ تعطل؟";
 "Send anyway" = "إرسال على أية حال";
-"Send debug profile (CPU, memory, etc)" = "إرسال ملف الأخطاء (معالج، ذاكرة، إلخ)";
-"Send feedback" = "أرسل رأيك";
-"Send feedback…" = "أرسل رأيك…";
 "Settings imported" = "تم استيراد الإعدادات";
 "Settings…" = "الإعدادات";
-"Share improvement ideas, or report bugs" = "شارك أفكارك التطويرية، أو بلغ عن أخطاء";
 "Shortcut" = "اختصار";
 "Shortcut 1" = "الإختصار ١";
 "Shortcut 2" = "الإختصار ٢";
@@ -266,7 +259,6 @@
 "Version" = "الإصدار";
 "Vertical Swipe with Four Fingers" = "مرر أفقياً بأربعة أصابع";
 "Vertical Swipe with Three Fingers" = "مرر أفقياً بثلاثة أصابع";
-"View existing discussions" = "أنظر للنقاشات الحالية";
 "Vim keys" = "مفاتيح Vim";
 "Vim keys already assigned to other actions:\n%@" = "مفاتيح Vim المعينة بالفعل لإجراءات أخرى: \\\n%@";
 "Visibility" = "الرؤية";

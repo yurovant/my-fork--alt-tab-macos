@@ -19,7 +19,6 @@
 "Align windows" = "Ευθυγράμμιση παραθύρων";
 "Align windows:" = "Στοίχιση παραθύρων:";
 "All apps" = "Όλες οι εφαρμογές";
-"All data from this form will be made public, as a ticket on github.com" = "Όλα τα δεδομένα από αυτό το έντυπο θα δημοσιοποιηθούν ως ticket στο github.com";
 "All screens" = "Όλες οι οθόνες";
 "All Spaces" = "Όλα τα Γραφεία εργασίας";
 "Allowed" = "Επιτρέπεται";
@@ -112,7 +111,6 @@
 "Hold" = "Κρατήστε πατημένο";
 "Horizontal Swipe with Four Fingers" = "Οριζόντια σάρωση με τέσσερα δάχτυλα";
 "Horizontal Swipe with Three Fingers" = "Οριζόντια σάρωση με τρία δάχτυλα";
-"I think the app could be improved with…" = "Πιστεύω ότι η εφαρμογή θα μπορούσε να βελτιωθεί με...";
 "Ignore shortcuts when active" = "Αγνόησε τις συντομεύσεις όταν ενεργό";
 "Ignore shortcuts while a window from these apps is active" = "Να αγνοούνται οι συντομεύσεις ενόσω κάποιο παράθυρο από αυτές τις εφαρμογές είναι ενεργό";
 "Import settings…" = "Εισαγωγή ρυθμίσεων…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Ανοίξτε τις ρυθμίσεις Trackpad...";
 "Optional: email (if you want a reply)" = "Προαιρετικό: email (αν επιθυμείτε απάντηση)";
 "Order windows by" = "Ταξινόμηση παραθύρων κατά";
-"Please fill in the form" = "Παρακαλώ συμπληρώστε τη φόρμα";
 "Policies" = "Πολιτικές";
 "Preferences…" = "Προτιμήσεις...";
 "Preview selected window" = "Προεπισκόπηση επιλεγμένου παραθύρου";
@@ -192,12 +189,8 @@
 "Send" = "Αποστολή";
 "Send a crash report?" = "Αποστολή αναφοράς συντριβής;";
 "Send anyway" = "Αποστολή ούτως ή άλλως";
-"Send debug profile (CPU, memory, etc)" = "Αποστολή διαγνωστικού προφίλ (επεξεργαστής, μνήμη, κλπ)";
-"Send feedback" = "Αποστολή σχολίων";
-"Send feedback…" = "Αποστολή σχολίων...";
 "Settings imported" = "Οι ρυθμίσεις εισήχθησαν";
 "Settings…" = "Ρυθμίσεις";
-"Share improvement ideas, or report bugs" = "Μοιραστείτε ιδέες για βελτίωση ή αναφορά σφαλμάτων";
 "Shortcut" = "Συντόμευση";
 "Shortcut 1" = "Συντόμευση 1";
 "Shortcut 2" = "Συντόμευση 2";
@@ -266,7 +259,6 @@
 "Version" = "Έκδοση";
 "Vertical Swipe with Four Fingers" = "Κάθετη σάρωση με τέσσερα δάχτυλα";
 "Vertical Swipe with Three Fingers" = "Κάθετη σάρωση με τρία δάχτυλα";
-"View existing discussions" = "Εμφάνιση υπαρχουσών συζητήσεων";
 "Vim keys" = "Vim keys";
 "Vim keys already assigned to other actions:\n%@" = "Vim keys που έχουν ήδη ανατεθεί σε άλλες ενέργειες: \\ n%@";
 "Visibility" = "Ορατότητα";

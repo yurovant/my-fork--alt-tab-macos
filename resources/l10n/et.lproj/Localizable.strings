@@ -19,7 +19,6 @@
 "Align windows" = "Aknad joondage";
 "Align windows:" = "Joonda aknad:";
 "All apps" = "All apps";
-"All data from this form will be made public, as a ticket on github.com" = "Kõik selle vormi andmed avalikustatakse Github.com -i piletina";
 "All screens" = "Kõik ekraanid";
 "All Spaces" = "All Spaces";
 "Allowed" = "Lubatud";
@@ -112,7 +111,6 @@
 "Hold" = "Hoia";
 "Horizontal Swipe with Four Fingers" = "Horisontaalne pühkimine nelja sõrmega";
 "Horizontal Swipe with Three Fingers" = "Horisontaalne pühkimine kolme sõrmega";
-"I think the app could be improved with…" = "I think the app could be improved with…";
 "Ignore shortcuts when active" = "Ignoreeri otseteid aktiivselt";
 "Ignore shortcuts while a window from these apps is active" = "Ignoreeri otseteid, kui nende rakenduste aken on aktiivne";
 "Import settings…" = "Impordi seaded…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Ava puuteplaadi seaded…";
 "Optional: email (if you want a reply)" = "Valikuline: e -post (kui soovite vastust)";
 "Order windows by" = "Tellige aknad";
-"Please fill in the form" = "Palun täida vorm";
 "Policies" = "Policies";
 "Preferences…" = "Eelistused ...";
 "Preview selected window" = "Eelvaade valitud aken";
@@ -192,12 +189,8 @@
 "Send" = "Saada";
 "Send a crash report?" = "Kas saata krahhi aruanne?";
 "Send anyway" = "Saada niikuinii";
-"Send debug profile (CPU, memory, etc)" = "Saada silumisprofiil (CPU, mälu jne)";
-"Send feedback" = "Saada tagasisidet";
-"Send feedback…" = "Saada tagasisidet ...";
 "Settings imported" = "Seaded imporditud";
 "Settings…" = "Seaded";
-"Share improvement ideas, or report bugs" = "Jagage parendamise ideid või teatage vigadest";
 "Shortcut" = "Otsetee";
 "Shortcut 1" = "Otsetee 1";
 "Shortcut 2" = "Otsetee 2";
@@ -266,7 +259,6 @@
 "Version" = "Version";
 "Vertical Swipe with Four Fingers" = "Vertikaalne pühkimine nelja sõrmega";
 "Vertical Swipe with Three Fingers" = "Vertikaalne pühkimine kolme sõrmega";
-"View existing discussions" = "View existing discussions";
 "Vim keys" = "Vimi klahvid";
 "Vim keys already assigned to other actions:\n%@" = "VIM võtmed on juba muude toimingute jaoks määratud: \\ n%@";
 "Visibility" = "Nähtavus";

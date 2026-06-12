@@ -19,7 +19,6 @@
 "Align windows" = "Подравнете прозорците";
 "Align windows:" = "Подравни прозорците:";
 "All apps" = "Всички приложения";
-"All data from this form will be made public, as a ticket on github.com" = "Всички данни в тази форма ще бъдат публикуване на github.com";
 "All screens" = "Вички екрани";
 "All Spaces" = "Всички пространства";
 "Allowed" = "Разрешен";
@@ -112,7 +111,6 @@
 "Hold" = "Със задръжане на";
 "Horizontal Swipe with Four Fingers" = "Хоризонтално плъзгане с четири пръста";
 "Horizontal Swipe with Three Fingers" = "Хоризонтално плъзгане с три пръста";
-"I think the app could be improved with…" = "Предлагам подобрение на приложението...";
 "Ignore shortcuts when active" = "Игнорирай клавишни комбинации, когато е активно";
 "Ignore shortcuts while a window from these apps is active" = "Игнорирай шорткъта в следните приложения:";
 "Import settings…" = "Импортиране на настройки…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Отвори настройките на тракпада…";
 "Optional: email (if you want a reply)" = "Емейл на който да отговорим (опция)";
 "Order windows by" = "Поръчайте Windows от";
-"Please fill in the form" = "Моля, попълнете формуляра";
 "Policies" = "Политики";
 "Preferences…" = "Настройки...";
 "Preview selected window" = "Преглед на избрания прозорец";
@@ -192,12 +189,8 @@
 "Send" = "Изпрати";
 "Send a crash report?" = "Да изпратя ли отчет при забиване?";
 "Send anyway" = "Изпрати";
-"Send debug profile (CPU, memory, etc)" = "Изпрати дебуг данни (процесор, памет и т.н.)";
-"Send feedback" = "Изпрати обратна връзка";
-"Send feedback…" = "Изпрати обратна връзка...";
 "Settings imported" = "Настройките са импортирани";
 "Settings…" = "Настройки";
-"Share improvement ideas, or report bugs" = "Сподели идеи за подобрение или бъгове";
 "Shortcut" = "Пряк път";
 "Shortcut 1" = "Шорткът 1";
 "Shortcut 2" = "Шорткът 2";
@@ -266,7 +259,6 @@
 "Version" = "Версия";
 "Vertical Swipe with Four Fingers" = "Вертикално плъзгане с четири пръста";
 "Vertical Swipe with Three Fingers" = "Вертикално плъзгане с три пръста";
-"View existing discussions" = "Виж дискусиите";
 "Vim keys" = "Vim клавиши";
 "Vim keys already assigned to other actions:\n%@" = "VIM клавиши, които вече са присвоени на други действия: \\ n%@";
 "Visibility" = "Видимост";

@@ -19,7 +19,6 @@
 "Align windows" = "ဝင်းဒိုးများကို ချိန်ညှိပါ";
 "Align windows:" = "ဝင်းဒိုးများကို ချိန်ညှိပါ-";
 "All apps" = "အက်ပ်များ အားလုံး";
-"All data from this form will be made public, as a ticket on github.com" = "ဤဖောင်မှ ဒေတာအားလုံးကို github.com တွင် လက်မှတ်အဖြစ် အများပြည်သူသိအောင် ပြုလုပ်ပါမည်။";
 "All screens" = "မျက်နှာပြင်များ အားလုံး";
 "All Spaces" = "Space များ အားလုံး";
 "Allowed" = "ခွင့်ပြုသည်";
@@ -112,7 +111,6 @@
 "Hold" = "ဖိထားပါ";
 "Horizontal Swipe with Four Fingers" = "လက်လေးချောင်းဖြင့် အလျားလိုက် ပွတ်ဆွဲပါ";
 "Horizontal Swipe with Three Fingers" = "လက်သုံးချောင်းဖြင့် အလျားလိုက် ပွတ်ဆွဲပါ";
-"I think the app could be improved with…" = "ဤအက်ပ်ကို… ဖြင့် ပိုမိုကောင်းမွန်အောင် ပြုလုပ်နိုင်သည်ဟု ကျွန်ုပ်ထင်သည်";
 "Ignore shortcuts when active" = "အသုံးပြုနေစဉ် ရှော့ခ်ကတ်များကို လျစ်လျူရှုပါ";
 "Ignore shortcuts while a window from these apps is active" = "ဤအက်ပ်များမှ ဝင်းဒိုးတစ်ခု အသုံးပြုနေစဉ် ရှော့ခ်ကတ်များကို လျစ်လျူရှုပါ";
 "Import settings…" = "ဆက်တင်များ တင်သွင်းရန်…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Trackpad ဆက်တင်များ ဖွင့်ပါ...";
 "Optional: email (if you want a reply)" = "ရွေးချယ်နိုင်သည်- အီးမေးလ် (အကြောင်းပြန်လိုပါက)";
 "Order windows by" = "ဝင်းဒိုးများကို စီစဉ်ရန်";
-"Please fill in the form" = "ဖောင်ဖြည့်ပေးပါ";
 "Policies" = "မူဝါဒများ";
 "Preferences…" = "စိတ်ကြိုက်ပြင်ဆင်မှုများ…";
 "Preview selected window" = "ရွေးချယ်ထားသော ဝင်းဒိုးကို ကြည့်ပါ";
@@ -192,12 +189,8 @@
 "Send" = "ပေးပို့မည်";
 "Send a crash report?" = "ပြဿနာအစီရင်ခံစာ ပို့မလား။";
 "Send anyway" = "မည်သို့ပင်ဖြစ်စေ ပေးပို့မည်";
-"Send debug profile (CPU, memory, etc)" = "အမှားရှာဖွေရေး ပရိုဖိုင် (CPU, memory စသည်) ပေးပို့မည်";
-"Send feedback" = "တုံ့ပြန်ချက် ပေးပို့မည်";
-"Send feedback…" = "တုံ့ပြန်ချက် ပေးပို့မည်…";
 "Settings imported" = "ဆက်တင်များ တင်သွင်းပြီးပါပြီ";
 "Settings…" = "ဆက်တင်များ";
-"Share improvement ideas, or report bugs" = "တိုးတက်မှုဆိုင်ရာ အကြံဉာဏ်များ မျှဝေပါ သို့မဟုတ် ချို့ယွင်းချက်များ သတင်းပို့ပါ";
 "Shortcut" = "ဖြတ်လမ်း";
 "Shortcut 1" = "ရှော့ခ်ကတ် ၁";
 "Shortcut 2" = "ရှော့ခ်ကတ် ၂";
@@ -266,7 +259,6 @@
 "Version" = "ဗားရှင်း";
 "Vertical Swipe with Four Fingers" = "လက်လေးချောင်းဖြင့် ဒေါင်လိုက် ပွတ်ဆွဲပါ";
 "Vertical Swipe with Three Fingers" = "လက်သုံးချောင်းဖြင့် ဒေါင်လိုက် ပွတ်ဆွဲပါ";
-"View existing discussions" = "လက်ရှိဆွေးနွေးမှုများကို ကြည့်ရှုပါ";
 "Vim keys" = "Vim ကီးများ";
 "Vim keys already assigned to other actions:\n%@" = "Vim ကီးများကို အခြားလုပ်ဆောင်ချက်များဖြစ်သည့်\n%@ သို့ ပေးအပ်ထားပြီးဖြစ်သည်။";
 "Visibility" = "မြင်သာမှု";

@@ -19,7 +19,6 @@
 "Align windows" = "Alinhar as janelas";
 "Align windows:" = "Alinhar janelas:";
 "All apps" = "Todas as aplicações";
-"All data from this form will be made public, as a ticket on github.com" = "Todos os dados deste formulário serão públicos num ticket em github.com";
 "All screens" = "Todos os ecrãs";
 "All Spaces" = "Todos";
 "Allowed" = "Permitido";
@@ -112,7 +111,6 @@
 "Hold" = "Segurar";
 "Horizontal Swipe with Four Fingers" = "Deslizar horizontalmente com quatro dedos";
 "Horizontal Swipe with Three Fingers" = "Deslizar horizontalmente com três dedos";
-"I think the app could be improved with…" = "Eu acho que a aplicação poderia ser melhorada se…";
 "Ignore shortcuts when active" = "Ignorar atalhos enquanto activo";
 "Ignore shortcuts while a window from these apps is active" = "Ignorar atalhos sempre que uma destas janelas esteja activa";
 "Import settings…" = "Importar configurações…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Abrir Definições do Trackpad";
 "Optional: email (if you want a reply)" = "Opcional: e-mail (se desejar resposta)";
 "Order windows by" = "Ordenar janelas por";
-"Please fill in the form" = "Preencha o formulário por favor";
 "Policies" = "Políticas";
 "Preferences…" = "Preferências…";
 "Preview selected window" = "Pré-visualizar janela selecionada";
@@ -192,12 +189,8 @@
 "Send" = "Enviar";
 "Send a crash report?" = "Enviar relatório de falha?";
 "Send anyway" = "Enviar na mesma";
-"Send debug profile (CPU, memory, etc)" = "Enviar dados para depuração (CPU, memória, etc)";
-"Send feedback" = "Enviar comentário";
-"Send feedback…" = "Enviar comentário…";
 "Settings imported" = "Configurações importadas";
 "Settings…" = "Definições";
-"Share improvement ideas, or report bugs" = "Partilhar sugestões ou reportar falhas";
 "Shortcut" = "Atalho";
 "Shortcut 1" = "Atalho 1";
 "Shortcut 2" = "Atalho 2";
@@ -266,7 +259,6 @@
 "Version" = "Versão";
 "Vertical Swipe with Four Fingers" = "Deslizar verticalmente com quatro dedos";
 "Vertical Swipe with Three Fingers" = "Deslizar verticalmente com três dedos";
-"View existing discussions" = "Ver discussões existentes";
 "Vim keys" = "Teclas Vim";
 "Vim keys already assigned to other actions:\n%@" = "Teclas Vim já se encontram associadas a outras acções:\n%@";
 "Visibility" = "Visibilidade";

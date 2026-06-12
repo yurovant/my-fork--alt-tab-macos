@@ -19,7 +19,6 @@
 "Align windows" = "Вирівняти вікна";
 "Align windows:" = "Вирівняти вікна:";
 "All apps" = "Усіх програм";
-"All data from this form will be made public, as a ticket on github.com" = "Усі дані з цієї форми будуть доступні публічно у вигляді квитку на github.com";
 "All screens" = "Всіх екранів";
 "All Spaces" = "Всі простори";
 "Allowed" = "Дозволено";
@@ -112,7 +111,6 @@
 "Hold" = "Утримувати";
 "Horizontal Swipe with Four Fingers" = "Горизонтальний рух чотирма пальцями";
 "Horizontal Swipe with Three Fingers" = "Горизонтальний рух трьома пальцями";
-"I think the app could be improved with…" = "Я думаю додаток може бути покращено з...";
 "Ignore shortcuts when active" = "Ігнорувати комб. клавіш коли активне";
 "Ignore shortcuts while a window from these apps is active" = "Ігнорувати гарячі клавіші поки вікна цих програм активні";
 "Import settings…" = "Імпортувати налаштування…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Налаштувати трекпад…";
 "Optional: email (if you want a reply)" = "Опцiонально: електронна пошта (якщо бажаєте)";
 "Order windows by" = "Впорядкувати вікна";
-"Please fill in the form" = "Будь ласка заповніть форму";
 "Policies" = "Політика";
 "Preferences…" = "Налаштування...";
 "Preview selected window" = "Показувати превʼю обраного вікна";
@@ -192,12 +189,8 @@
 "Send" = "Вiдправити";
 "Send a crash report?" = "Надіслати звіт про збій?";
 "Send anyway" = "Відправити в будь-якому випадку";
-"Send debug profile (CPU, memory, etc)" = "Надіслати профіль дебагу (ЦП, памʼять і т.д.)";
-"Send feedback" = "Надіслати відгук";
-"Send feedback…" = "Надіслати відгук...";
 "Settings imported" = "Налаштування імпортовано";
 "Settings…" = "Налаштування";
-"Share improvement ideas, or report bugs" = "Поділитись ідеями покращення або надіслати звіт про помилку";
 "Shortcut" = "Клавіатурне скорочення";
 "Shortcut 1" = "Комб. клавіш 1";
 "Shortcut 2" = "Комб. клавіш 2";
@@ -266,7 +259,6 @@
 "Version" = "Версія";
 "Vertical Swipe with Four Fingers" = "Вертикальний рух чотирма пальцями";
 "Vertical Swipe with Three Fingers" = "Вертикальний рух трьома пальцями";
-"View existing discussions" = "Переглянути наявні обговорення";
 "Vim keys" = "Клавіші Vim";
 "Vim keys already assigned to other actions:\n%@" = "Клавіші Vim уже призначені для інших дій:\n%@";
 "Visibility" = "Видимість";

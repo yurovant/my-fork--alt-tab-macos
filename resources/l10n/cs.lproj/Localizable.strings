@@ -19,7 +19,6 @@
 "Align windows" = "Zarovnat okna";
 "Align windows:" = "Zarovnat okna:";
 "All apps" = "Všechny aplikace";
-"All data from this form will be made public, as a ticket on github.com" = "Všechna data z tohoto formuláře budou zveřejněna jako požadavek (ticket) na github.com";
 "All screens" = "Všechny obrazovky";
 "All Spaces" = "Všechny plochy";
 "Allowed" = "Povoleno";
@@ -112,7 +111,6 @@
 "Hold" = "Podržet";
 "Horizontal Swipe with Four Fingers" = "Vodorovné přejetí čtyřmi prsty";
 "Horizontal Swipe with Three Fingers" = "Vodorovné přejetí třemi prsty";
-"I think the app could be improved with…" = "Myslím, že aplikace by mohla být vylepšena tak, že…";
 "Ignore shortcuts when active" = "Ignorovat klávesové zkratky, když jsou aktivní";
 "Ignore shortcuts while a window from these apps is active" = "Ignorovat zkratky, pokud je aktivní okno některé z těchto aplikací";
 "Import settings…" = "Importovat nastavení…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Otevřít nastavení trackpadu…";
 "Optional: email (if you want a reply)" = "Volitelně: e-mail (pokud chcete odpověď)";
 "Order windows by" = "Seřadit okna podle";
-"Please fill in the form" = "Prosím vyplňte formulář";
 "Policies" = "Zásady";
 "Preferences…" = "Nastavení…";
 "Preview selected window" = "Zobrazit náhled vybraného okna";
@@ -192,12 +189,8 @@
 "Send" = "Odeslat";
 "Send a crash report?" = "Odeslat hlášení o pádu?";
 "Send anyway" = "Přesto odeslat";
-"Send debug profile (CPU, memory, etc)" = "Odeslat diagnostická data (CPU, paměť atd.)";
-"Send feedback" = "Odeslat zpětnou vazbu";
-"Send feedback…" = "Odeslat zpětnou vazbu…";
 "Settings imported" = "Nastavení importována";
 "Settings…" = "Nastavení";
-"Share improvement ideas, or report bugs" = "Navrhněte vylepšení nebo nahlaste chybu";
 "Shortcut" = "Zkratka";
 "Shortcut 1" = "Zkratka 1";
 "Shortcut 2" = "Zkratka 2";
@@ -266,7 +259,6 @@
 "Version" = "Verze";
 "Vertical Swipe with Four Fingers" = "Svislé přejetí čtyřmi prsty";
 "Vertical Swipe with Three Fingers" = "Svislé přejetí třemi prsty";
-"View existing discussions" = "Zobrazit existující diskuse";
 "Vim keys" = "Vim klávesy";
 "Vim keys already assigned to other actions:\n%@" = "Klávesy Vim již přiřazené k jiným akcím: \\ n%@";
 "Visibility" = "Viditelnost";

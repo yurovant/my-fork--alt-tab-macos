@@ -19,7 +19,6 @@
 "Align windows" = "Tasaa ikkunat";
 "Align windows:" = "Tasaa ikkunat:";
 "All apps" = "Kaikki apit";
-"All data from this form will be made public, as a ticket on github.com" = "Tämän lomakkeen tiedot tulevat julkisiksi Github.comiin";
 "All screens" = "Kaikki ruudut";
 "All Spaces" = "Kaikki tilat";
 "Allowed" = "Sallittu";
@@ -112,7 +111,6 @@
 "Hold" = "Pidä";
 "Horizontal Swipe with Four Fingers" = "Pyyhkäise vasemmalle/oikealle 4 sormella";
 "Horizontal Swipe with Three Fingers" = "Pyyhkäise vasemmalle/oikealle 3 sormella";
-"I think the app could be improved with…" = "Ohjelmaa voisi mielestäni parantaa…";
 "Ignore shortcuts when active" = "Sivuuta pikanäppäimet, kun aktiivinen";
 "Ignore shortcuts while a window from these apps is active" = "Älä käsittele pikanäppäimiä näiden ohjelmien ollessa aktiivisia";
 "Import settings…" = "Tuo asetukset…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Avaa ohjauslevyn asetukset…";
 "Optional: email (if you want a reply)" = "Vapaaehtoinen: sähköposti (jos haluat vastauksen)";
 "Order windows by" = "Järjestä ikkunat";
-"Please fill in the form" = "Täytä lomake";
 "Policies" = "Käytännöt";
 "Preferences…" = "Asetukset…";
 "Preview selected window" = "Esikatsele valittua ikkunaa";
@@ -192,12 +189,8 @@
 "Send" = "Lähetä";
 "Send a crash report?" = "Lähetä vikaraportti?";
 "Send anyway" = "Lähetä silti";
-"Send debug profile (CPU, memory, etc)" = "Lähetä debug-profiili (prosessori, muisti ym.)";
-"Send feedback" = "Lähetä palautetta";
-"Send feedback…" = "Lähetä palautetta…";
 "Settings imported" = "Asetukset tuotu";
 "Settings…" = "Asetukset";
-"Share improvement ideas, or report bugs" = "Jaa parannusehdotuksia tai raportoi bugeja";
 "Shortcut" = "Pikakomento";
 "Shortcut 1" = "Pikanäppäin 1";
 "Shortcut 2" = "Pikanäppäin 2";
@@ -266,7 +259,6 @@
 "Version" = "Versio";
 "Vertical Swipe with Four Fingers" = "Pyyhkäise ylös/alas 4 sormella";
 "Vertical Swipe with Three Fingers" = "Pyyhkäise ylös/alas 3 sormella";
-"View existing discussions" = "Näytä keskustelut";
 "Vim keys" = "Vim-näppäimet";
 "Vim keys already assigned to other actions:\n%@" = "Vim-näppäimet on jo määritetty toisiin toimintoihin:\n%@";
 "Visibility" = "Näkyvyys";

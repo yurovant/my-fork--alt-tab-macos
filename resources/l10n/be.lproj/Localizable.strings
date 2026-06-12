@@ -19,7 +19,6 @@
 "Align windows" = "Выраўнаваць вокны";
 "Align windows:" = "Выраўнаваць вокны:";
 "All apps" = "Усе праграмы";
-"All data from this form will be made public, as a ticket on github.com" = "Усе дадзеныя з гэтай формы будуць апублікаваны як цікет на github.com";
 "All screens" = "Усе экраны";
 "All Spaces" = "Усе прасторы";
 "Allowed" = "Дазволена";
@@ -112,7 +111,6 @@
 "Hold" = "Утрымліваць";
 "Horizontal Swipe with Four Fingers" = "Гарызантальнае правядзенне чатырма пальцамі";
 "Horizontal Swipe with Three Fingers" = "Гарызантальнае правядзенне трыма пальцамі";
-"I think the app could be improved with…" = "Я лічу, што праграму можна ўдасканаліць…";
 "Ignore shortcuts when active" = "Ігнараваць спалучэнні клавіш, калі актыўны";
 "Ignore shortcuts while a window from these apps is active" = "Ігнараваць спалучэнні клавіш, калі акно гэтых праграм актыўнае";
 "Import settings…" = "Імпартаваць налады…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Адкрыць налады трэкпада…";
 "Optional: email (if you want a reply)" = "Неабавязкова: эл. пошта (калі вы хочаце адказ)";
 "Order windows by" = "Парадак вокнаў па";
-"Please fill in the form" = "Калі ласка, запоўніце форму";
 "Policies" = "Палітыкі";
 "Preferences…" = "Налады…";
 "Preview selected window" = "Папярэдні прагляд выбранага акна";
@@ -192,12 +189,8 @@
 "Send" = "Адправіць";
 "Send a crash report?" = "Адправіць справаздачу аб збоі?";
 "Send anyway" = "Усё роўна адправіць";
-"Send debug profile (CPU, memory, etc)" = "Адправіць профіль адладкі (ЦП, памяць і г.д.)";
-"Send feedback" = "Адправіць водгук";
-"Send feedback…" = "Адправіць водгук";
 "Settings imported" = "Налады імпартаваны";
 "Settings…" = "Налады";
-"Share improvement ideas, or report bugs" = "Падзяліцеся ідэямі па паляпшэньні або паведаміце пра памылкі";
 "Shortcut" = "Спалучэнне клавіш";
 "Shortcut 1" = "Спалучэнне 1";
 "Shortcut 2" = "Спалучэнне 2";
@@ -266,7 +259,6 @@
 "Version" = "Версія";
 "Vertical Swipe with Four Fingers" = "Вертыкальнае правядзенне чатырма пальцамі";
 "Vertical Swipe with Three Fingers" = "Вертыкальнае правядзенне трыма пальцамі";
-"View existing discussions" = "Паглядзець існуючыя абмеркаванні";
 "Vim keys" = "Клавішы Vim";
 "Vim keys already assigned to other actions:\n%@" = "Клавішы Vim ужо прызначаны іншым дзеянням:\n%@";
 "Visibility" = "Бачнасць";

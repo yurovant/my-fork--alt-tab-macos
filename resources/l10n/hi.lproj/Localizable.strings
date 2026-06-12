@@ -19,7 +19,6 @@
 "Align windows" = "विंडोज संरेखित करें";
 "Align windows:" = "खिड़की संरेखित करें:";
 "All apps" = "सब ऐप्स";
-"All data from this form will be made public, as a ticket on github.com" = "इस पत्र के सभी जानकारी को github.com पर टिकट के रूप में सार्वजनिक किया जाएगा";
 "All screens" = "सब स्क्रीन्स";
 "All Spaces" = "सब स्पेस";
 "Allowed" = "अनुमत";
@@ -112,7 +111,6 @@
 "Hold" = "दबाए रखें";
 "Horizontal Swipe with Four Fingers" = "चार उंगलियों से क्षैतिज स्वाइप";
 "Horizontal Swipe with Three Fingers" = "तीन उंगलियों से क्षैतिज स्वाइप";
-"I think the app could be improved with…" = "मुझे लगता है कि इससे ऐप को बेहतर बनाया जा सकता है...";
 "Ignore shortcuts when active" = "सक्रिय होने पर शॉर्टकट को अनदेखा करें";
 "Ignore shortcuts while a window from these apps is active" = "इन ऐप्स की खिड़की सक्रिय होने पर शॉर्टकट पर ध्यान न दें";
 "Import settings…" = "सेटिंग्स आयात करें…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "ट्रैकपैड सेटिंग्स खोलें…";
 "Optional: email (if you want a reply)" = "ऐच्छिक: ईमेल (अगर आप जवाब देना चाहते हैं)";
 "Order windows by" = "द्वारा विंडोज ऑर्डर करें";
-"Please fill in the form" = "कृपया फॉर्म भरें";
 "Policies" = "नियम";
 "Preferences…" = "पसंद";
 "Preview selected window" = "पूर्वावलोकन चयनित विंडो";
@@ -192,12 +189,8 @@
 "Send" = "भेज दो";
 "Send a crash report?" = "दुर्घटना की रिपोर्ट भेजें?";
 "Send anyway" = "फिर भी भेज दो";
-"Send debug profile (CPU, memory, etc)" = "डिबग प्रोफ़ाइल भेजो (सीपीयू, स्मृति, आदि)";
-"Send feedback" = "राय भेजो";
-"Send feedback…" = "राय भेजो...";
 "Settings imported" = "सेटिंग्स आयात की गईं";
 "Settings…" = "सेटिंग्स";
-"Share improvement ideas, or report bugs" = "सुधार के विचार साझा करें, या बग की रिपोर्ट करें";
 "Shortcut" = "शॉर्टकट";
 "Shortcut 1" = "शॉर्टकट १";
 "Shortcut 2" = "शॉर्टकट २";
@@ -266,7 +259,6 @@
 "Version" = "संस्करण";
 "Vertical Swipe with Four Fingers" = "चार उंगलियों से ऊर्ध्वाधर स्वाइप";
 "Vertical Swipe with Three Fingers" = "तीन उंगलियों से ऊर्ध्वाधर स्वाइप";
-"View existing discussions" = "मौजूदा वाद-विवाद दिखाओ";
 "Vim keys" = "विम कीयों";
 "Vim keys already assigned to other actions:\n%@" = "Vim कीज़ पहले से ही अन्य कार्यों को सौंपा गया: \\ n%@";
 "Visibility" = "दृश्यता";

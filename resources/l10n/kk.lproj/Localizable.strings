@@ -19,7 +19,6 @@
 "Align windows" = "Терезелерді туралау";
 "Align windows:" = "Терезелерді туралау:";
 "All apps" = "Барлық қолданбалар";
-"All data from this form will be made public, as a ticket on github.com" = "Бұл пішіндегі барлық деректер github.com сайтында билет ретінде жалпыға қолжетімді болады";
 "All screens" = "Барлық экрандар";
 "All Spaces" = "Барлық кеңістіктер";
 "Allowed" = "Рұқсат етілген";
@@ -112,7 +111,6 @@
 "Hold" = "Ұстау";
 "Horizontal Swipe with Four Fingers" = "Төрт саусақпен көлденең сырғыту";
 "Horizontal Swipe with Three Fingers" = "Үш саусақпен көлденең сырғыту";
-"I think the app could be improved with…" = "Менің ойымша, бағдарламаны мыналармен жақсартуға болады…";
 "Ignore shortcuts when active" = "Белсенді болған кезде жылдам пернелерді елемеу";
 "Ignore shortcuts while a window from these apps is active" = "Осы қолданбалардың терезесі белсенді болған кезде жылдам пернелерді елемеу";
 "Import settings…" = "Параметрлерді импорттау…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Трекпад параметрлерін ашу…";
 "Optional: email (if you want a reply)" = "Қосымша: электрондық пошта (егер жауап алғыңыз келсе)";
 "Order windows by" = "Терезелерді мына бойынша реттеу";
-"Please fill in the form" = "Пішінді толтырыңыз";
 "Policies" = "Саясаттар";
 "Preferences…" = "Параметрлер…";
 "Preview selected window" = "Таңдалған терезені алдын ала қарау";
@@ -192,12 +189,8 @@
 "Send" = "Жіберу";
 "Send a crash report?" = "Апат туралы есеп жіберу керек пе?";
 "Send anyway" = "Бәрібір жіберу";
-"Send debug profile (CPU, memory, etc)" = "Жіберу дебаг профилі (CPU, жад, т.б.)";
-"Send feedback" = "Пікір жіберу";
-"Send feedback…" = "Пікір жіберу…";
 "Settings imported" = "Параметрлер импортталды";
 "Settings…" = "Параметрлер";
-"Share improvement ideas, or report bugs" = "Жақсарту идеяларымен бөлісіңіз немесе қателер туралы хабарлаңыз";
 "Shortcut" = "Жарлық";
 "Shortcut 1" = "Жылдам перне 1";
 "Shortcut 2" = "Жылдам перне 2";
@@ -266,7 +259,6 @@
 "Version" = "Нұсқасы";
 "Vertical Swipe with Four Fingers" = "Төрт саусақпен тік сырғыту";
 "Vertical Swipe with Three Fingers" = "Үш саусақпен тік сырғыту";
-"View existing discussions" = "Бар талқылауларды қарау";
 "Vim keys" = "Vim пернелері";
 "Vim keys already assigned to other actions:\n%@" = "Vim пернелері басқа әрекеттерге тағайындалған:\n%@";
 "Visibility" = "Көріну";

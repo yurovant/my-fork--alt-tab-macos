@@ -19,7 +19,6 @@
 "Align windows" = "Zarovnať";
 "Align windows:" = "Zarovnať okná:";
 "All apps" = "Všetky aplikácie";
-"All data from this form will be made public, as a ticket on github.com" = "Všetky údaje z tohto formulára budú zverejnené ako ticket na github.com";
 "All screens" = "Všetky plochy";
 "All Spaces" = "Všetky plochy";
 "Allowed" = "Povolené";
@@ -112,7 +111,6 @@
 "Hold" = "Držať";
 "Horizontal Swipe with Four Fingers" = "Horizontálne potiahnutie štyrmi prstami";
 "Horizontal Swipe with Three Fingers" = "Horizontálne potiahnutie tromi prstami";
-"I think the app could be improved with…" = "Myslím si, že by aplikácia mohla byť nasledovne vylepšená…";
 "Ignore shortcuts when active" = "Ignorujte skratky, keď sú aktívne";
 "Ignore shortcuts while a window from these apps is active" = "Ignorovať skratky, kým je aktívne okno niektorej z týchto aplikácií";
 "Import settings…" = "Importovať nastavenia…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Otvoriť nastavenia trackpadu…";
 "Optional: email (if you want a reply)" = "Voliteľné: e-mail (ak chcete odpoveď)";
 "Order windows by" = "Objednať si okná podľa";
-"Please fill in the form" = "Prosím, vyplňte formulár";
 "Policies" = "Postupy";
 "Preferences…" = "Nastavenia…";
 "Preview selected window" = "Zvolené okno";
@@ -192,12 +189,8 @@
 "Send" = "Poslať";
 "Send a crash report?" = "Poslať správu o zlyhaní?";
 "Send anyway" = "Napriek tomu poslať";
-"Send debug profile (CPU, memory, etc)" = "Poslať chybový profil (CPU, pamäť, a pod.)";
-"Send feedback" = "Poslať spätnú väzbu";
-"Send feedback…" = "Poslať spätnú väzbu…";
 "Settings imported" = "Nastavenia importované";
 "Settings…" = "Nastavenia";
-"Share improvement ideas, or report bugs" = "Zdieľať návrhy na zlepšenia, alebo chybový report";
 "Shortcut" = "Skratka";
 "Shortcut 1" = "Skratka 1";
 "Shortcut 2" = "Skratka 2";
@@ -266,7 +259,6 @@
 "Version" = "Verzia";
 "Vertical Swipe with Four Fingers" = "Vertikálne potiahnutie štyrmi prstami";
 "Vertical Swipe with Three Fingers" = "Vertikálne potiahnutie tromi prstami";
-"View existing discussions" = "Zobraziť prebiehajúce diskusie";
 "Vim keys" = "Vim klávesy";
 "Vim keys already assigned to other actions:\n%@" = "Vim Keys už priradené k iným akciám: \\ n%@";
 "Visibility" = "Viditeľnosť";

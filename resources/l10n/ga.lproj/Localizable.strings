@@ -19,7 +19,6 @@
 "Align windows" = "Ailínigh fuinneoga";
 "Align windows:" = "Ailínigh fuinneoga:";
 "All apps" = "Gach aipeanna";
-"All data from this form will be made public, as a ticket on github.com" = "Poibleofar na sonraí go léir ón bhfoirm seo, mar thicéad ar github.com";
 "All screens" = "Gach scáileáin";
 "All Spaces" = "Gach Spás";
 "Allowed" = "Ceadaithe";
@@ -112,7 +111,6 @@
 "Hold" = "Coinnigh";
 "Horizontal Swipe with Four Fingers" = "Swipeáil Chothrománach le Ceithre Mhéar";
 "Horizontal Swipe with Three Fingers" = "Swipeáil Chothrománach le Trí Mhéar";
-"I think the app could be improved with…" = "Ceapaim go bhféadfaí an aip a fheabhsú le…";
 "Ignore shortcuts when active" = "Déan neamhaird de aicearraí agus tú gníomhach";
 "Ignore shortcuts while a window from these apps is active" = "Déan neamhaird de aicearraí agus fuinneog ó na haipeanna seo gníomhach";
 "Import settings…" = "Iompórtáil socruithe…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Oscail Socruithe an Trackpad…";
 "Optional: email (if you want a reply)" = "Roghnach: ríomhphost (má tá freagra uait)";
 "Order windows by" = "Ordaigh fuinneoga le";
-"Please fill in the form" = "Líon isteach an fhoirm le do thoil";
 "Policies" = "Polasaithe";
 "Preferences…" = "Sainroghanna…";
 "Preview selected window" = "Réamhamharc an fhuinneog roghnaithe";
@@ -192,12 +189,8 @@
 "Send" = "Seol";
 "Send a crash report?" = "Seol tuairisc tuairteála?";
 "Send anyway" = "Seol ar aon nós";
-"Send debug profile (CPU, memory, etc)" = "Seol próifíl dífhabhtaithe (LAP, cuimhne, srl)";
-"Send feedback" = "Seol aiseolas";
-"Send feedback…" = "Seol aiseolas…";
 "Settings imported" = "Socruithe iompórtáilte";
 "Settings…" = "Socruithe";
-"Share improvement ideas, or report bugs" = "Comhroinn smaointe feabhsúcháin, nó tuairiscigh fabhtanna";
 "Shortcut" = "Aicearra";
 "Shortcut 1" = "Aicearra 1";
 "Shortcut 2" = "Aicearra 2";
@@ -266,7 +259,6 @@
 "Version" = "Leagan";
 "Vertical Swipe with Four Fingers" = "Swipeáil Ingearach le Ceithre Mhéar";
 "Vertical Swipe with Three Fingers" = "Swipeáil Ingearach le Trí Mhéar";
-"View existing discussions" = "Féach ar an bplé atá ann cheana féin";
 "Vim keys" = "Eochracha Vim";
 "Vim keys already assigned to other actions:\n%@" = "Eochracha Vim sannta cheana féin do ghníomhartha eile:\n%@";
 "Visibility" = "Infheictheacht";

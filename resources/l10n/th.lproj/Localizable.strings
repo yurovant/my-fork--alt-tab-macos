@@ -19,7 +19,6 @@
 "Align windows" = "จัดตำแหน่งหน้าต่าง";
 "Align windows:" = "จัดวางหน้าต่าง:";
 "All apps" = "แอปทั้งหมด";
-"All data from this form will be made public, as a ticket on github.com" = "ข้อมูลทั้งหมดจากแบบฟอร์มนี้จะเป็นสาธารณะผ่าน ticket บน github.com";
 "All screens" = "หน้าจอทั้งหมด";
 "All Spaces" = "พื้นที่ทั้งหมด";
 "Allowed" = "อนุญาตแล้ว";
@@ -112,7 +111,6 @@
 "Hold" = "กดค้าง";
 "Horizontal Swipe with Four Fingers" = "ปัดแนวนอนด้วยสี่นิ้ว";
 "Horizontal Swipe with Three Fingers" = "ปัดแนวนอนด้วยสามนิ้ว";
-"I think the app could be improved with…" = "ฉันคิดว่าควรปรับปรุง...";
 "Ignore shortcuts when active" = "ปิดใช้งานคำสั่งลัดเมื่อใช้งานแอปนี้";
 "Ignore shortcuts while a window from these apps is active" = "ปิดใช้งานคำสั่งลัดขณะที่หน้าต่างจากแอปเหล่านี้ทํางานอยู่";
 "Import settings…" = "นำเข้าการตั้งค่า…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "เปิดการตั้งค่าแทร็กแพด…";
 "Optional: email (if you want a reply)" = "ไมจำเป็นต้องใส่: อีเมล (หากต้องการการตอบกลับ)";
 "Order windows by" = "เรียงหน้าต่างโดย";
-"Please fill in the form" = "กรุณากรอกแบบฟอร์ม";
 "Policies" = "นโยบาย";
 "Preferences…" = "การตั้งค่า...";
 "Preview selected window" = "ดูตัวอย่างหน้าต่างที่เลือก";
@@ -192,12 +189,8 @@
 "Send" = "ส่ง";
 "Send a crash report?" = "ส่งรายการการขัดข้องหรือไม่";
 "Send anyway" = "ยืนยันจะส่ง";
-"Send debug profile (CPU, memory, etc)" = "ส่งข้อมูลทางเทคนิค (CPU, หน่วยความจำ เป็นต้น)";
-"Send feedback" = "ส่งข้อเสนอแนะ";
-"Send feedback…" = "ส่งข้อเสนอแนะ...";
 "Settings imported" = "นำเข้าการตั้งค่าแล้ว";
 "Settings…" = "การตั้งค่า";
-"Share improvement ideas, or report bugs" = "แบ่งปันข้อเสนอแนะหรือรายงานข้อบกพร่อง";
 "Shortcut" = "ทางลัด";
 "Shortcut 1" = "คำสั่งลัดที่ 1";
 "Shortcut 2" = "คำสั่งลัดที่ 2";
@@ -266,7 +259,6 @@
 "Version" = "หมายเลขเวอร์ชัน";
 "Vertical Swipe with Four Fingers" = "ปัดแนวตั้งด้วยสี่นิ้ว";
 "Vertical Swipe with Three Fingers" = "ปัดแนวตั้งด้วยสามนิ้ว";
-"View existing discussions" = "ดูการพูดคุย";
 "Vim keys" = "ปุ่ม Vim";
 "Vim keys already assigned to other actions:\n%@" = "ปุ่ม Vim ถูกกําหนดให้กับการดําเนินการอื่นแล้ว: \n%@";
 "Visibility" = "การมองเห็น";

@@ -19,7 +19,6 @@
 "Align windows" = "Ablakok Elrendezése";
 "Align windows:" = "Ablakok rendezése:";
 "All apps" = "Minden alkalmazás";
-"All data from this form will be made public, as a ticket on github.com" = "Minden adat amit ezen az űrlapon megadott publikus lesz egy GitHubon jegy formájában";
 "All screens" = "Minden képernyő";
 "All Spaces" = "Összes Íróasztal";
 "Allowed" = "Engedélyezve";
@@ -112,7 +111,6 @@
 "Hold" = "Tart";
 "Horizontal Swipe with Four Fingers" = "Vízszintes pöccintés négy ujjal";
 "Horizontal Swipe with Three Fingers" = "Vízszintes pöccintés három ujjal";
-"I think the app could be improved with…" = "Azt gondolom hasznos lenne az app bővítése ezzel…";
 "Ignore shortcuts when active" = "Hagyja figyelmen kívül a parancsokat ha";
 "Ignore shortcuts while a window from these apps is active" = "Figyelmen kívül hagyja a parancsikonokat, miközben ezeknek az alkalmazásoknak az ablaka aktív";
 "Import settings…" = "Beállítások importálása…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Trackpad beállításainak megnyitása…";
 "Optional: email (if you want a reply)" = "Opcionális: email (ha választ szeretnél kapni)";
 "Order windows by" = "Ablakok Rendezése";
-"Please fill in the form" = "Kérjük, töltse ki az űrlapot";
 "Policies" = "Házirendek";
 "Preferences…" = "Beállítások…";
 "Preview selected window" = "A kiválasztott ablak előnézete";
@@ -192,12 +189,8 @@
 "Send" = "Küldés";
 "Send a crash report?" = "Küldjünk Hibajelentést?";
 "Send anyway" = "Küldés mindenképp";
-"Send debug profile (CPU, memory, etc)" = "Hibakeresési profil (CPU, memória, stb.) küldése";
-"Send feedback" = "Visszajelzés küldése";
-"Send feedback…" = "Visszajelzés küldése…";
 "Settings imported" = "Beállítások importálva";
 "Settings…" = "Beállítások";
-"Share improvement ideas, or report bugs" = "Fejlesztési ötletek megosztása, hibabejelentés";
 "Shortcut" = "Billentyűparancs";
 "Shortcut 1" = "Parancsikon 1";
 "Shortcut 2" = "Parancsikon 2";
@@ -266,7 +259,6 @@
 "Version" = "Verzió";
 "Vertical Swipe with Four Fingers" = "Függőleges pöccintés négy ujjal";
 "Vertical Swipe with Three Fingers" = "Függőleges pöccintés három ujjal";
-"View existing discussions" = "Aktuális beszélgetések megtekintése";
 "Vim keys" = "VIM billentyűk";
 "Vim keys already assigned to other actions:\n%@" = "VIM bill. már hozzárendelt más műveletekhez: \\ n%@";
 "Visibility" = "Láthatóság";

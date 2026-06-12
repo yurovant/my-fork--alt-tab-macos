@@ -19,7 +19,6 @@
 "Align windows" = "Aliniere ferestre";
 "Align windows:" = "Aliniere ferestre:";
 "All apps" = "Toate aplicațiile";
-"All data from this form will be made public, as a ticket on github.com" = "Datele din acest formular vor fi făcute publice, ca tichet pe github.com";
 "All screens" = "Toate ecranele";
 "All Spaces" = "Toate spațiile";
 "Allowed" = "Permis";
@@ -112,7 +111,6 @@
 "Hold" = "Reține";
 "Horizontal Swipe with Four Fingers" = "Glisare Orizontală cu Patru Degete";
 "Horizontal Swipe with Three Fingers" = "Glisare Orizontală cu Trei Degete";
-"I think the app could be improved with…" = "Cred că aplicația poate fi îmbunătățită prin…";
 "Ignore shortcuts when active" = "Ignoră scurtăturile când este activă";
 "Ignore shortcuts while a window from these apps is active" = "Ignoră scurtăturile cât timp o fereastră din aceste aplicații este activă";
 "Import settings…" = "Importați setările…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Deschide Setările Trackpad…";
 "Optional: email (if you want a reply)" = "Opțional: email (dacă doriți un răspuns)";
 "Order windows by" = "Ordoneaza ferestrele după";
-"Please fill in the form" = "Vă rugăm să completați formularul";
 "Policies" = "Politici";
 "Preferences…" = "Preferințe…";
 "Preview selected window" = "Previzualizare fereastră selectată";
@@ -192,12 +189,8 @@
 "Send" = "Trimite";
 "Send a crash report?" = "Trimite un raport de eroare?";
 "Send anyway" = "Trimite oricum";
-"Send debug profile (CPU, memory, etc)" = "Trimite profil de debug (CPU, memorie, etc)";
-"Send feedback" = "Trimite sugestii";
-"Send feedback…" = "Trimite sugestii…";
 "Settings imported" = "Setări importate";
 "Settings…" = "Setări";
-"Share improvement ideas, or report bugs" = "Împărtășește idei de îmbunătățire sau raportează probleme";
 "Shortcut" = "Scurtătură";
 "Shortcut 1" = "Scurtătură 1";
 "Shortcut 2" = "Scurtătură 2";
@@ -266,7 +259,6 @@
 "Version" = "Versiune";
 "Vertical Swipe with Four Fingers" = "Glisare Verticală cu Patru Degete";
 "Vertical Swipe with Three Fingers" = "Glisare Verticală cu Trei Degete";
-"View existing discussions" = "Vezi discuții existente";
 "Vim keys" = "Taste Vim";
 "Vim keys already assigned to other actions:\n%@" = "Tastele vim deja alocate altor acțiuni: \n %@";
 "Visibility" = "Vizibilitate";

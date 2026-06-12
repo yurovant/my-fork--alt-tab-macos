@@ -19,7 +19,6 @@
 "Align windows" = "Derazalarni tekislang";
 "Align windows:" = "Oynalarni tekislash:";
 "All apps" = "Barcha ilovalar";
-"All data from this form will be made public, as a ticket on github.com" = "Ushbu shakldagi barcha ma'lumotlar Gitbub.com-da chipta sifatida ommaga taqdim etiladi";
 "All screens" = "Barcha ekranlar";
 "All Spaces" = "Barcha bo'shliqlar";
 "Allowed" = "Ruxsat berilgan";
@@ -112,7 +111,6 @@
 "Hold" = "Ushlab turmoq";
 "Horizontal Swipe with Four Fingers" = "To'rt barmoq bilan gorizontal surish";
 "Horizontal Swipe with Three Fingers" = "Uch barmoq bilan gorizontal surish";
-"I think the app could be improved with…" = "Menimcha, ilova yaxshilanishi mumkin ...";
 "Ignore shortcuts when active" = "Faol bo'lganda yorliqlarni e'tiborsiz qoldiring";
 "Ignore shortcuts while a window from these apps is active" = "Ushbu ilovalardan oyna faol bo'lsa, yorliqlarni e'tiborsiz qoldirish";
 "Import settings…" = "Sozlamalarni import qilish…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Trekpad sozlamalarini ochish…";
 "Optional: email (if you want a reply)" = "Ixtiyoriy: Elektron pochta (agar javobni xohlasangiz)";
 "Order windows by" = "Windows-ni buyurtma qiling";
-"Please fill in the form" = "Iltimos, shaklni to'ldiring";
 "Policies" = "Siyosat";
 "Preferences…" = "Afzalliklar ...";
 "Preview selected window" = "Tanlangan oynani ko'rib chiqish";
@@ -192,12 +189,8 @@
 "Send" = "Yuborish";
 "Send a crash report?" = "Avariya hisobotini yuboring?";
 "Send anyway" = "Baribir yuboring";
-"Send debug profile (CPU, memory, etc)" = "Narxie Profilini yuboring (protsessor, xotira va hk)";
-"Send feedback" = "Fikr-mulohazalarni yuboring";
-"Send feedback…" = "Fikr-mulohazalar yuborish ...";
 "Settings imported" = "Sozlamalar import qilindi";
 "Settings…" = "Sozlamalar";
-"Share improvement ideas, or report bugs" = "Mamlakatni obodonlashtirish g'oyalarini yoki xatolarni xabar qiling";
 "Shortcut" = "Yorliq";
 "Shortcut 1" = "Yorliq 1";
 "Shortcut 2" = "Yorliq 2";
@@ -266,7 +259,6 @@
 "Version" = "Versiya";
 "Vertical Swipe with Four Fingers" = "To'rt barmoq bilan vertikal surish";
 "Vertical Swipe with Three Fingers" = "Uch barmoq bilan vertikal surish";
-"View existing discussions" = "Mavjud munozarani ko'rish";
 "Vim keys" = "Vim tugmalari";
 "Vim keys already assigned to other actions:\n%@" = "Boshqa harakatlar uchun tayinlangan Vim kalitlari: \\ n% @";
 "Visibility" = "Ko'rinishi";

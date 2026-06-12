@@ -19,7 +19,6 @@
 "Align windows" = "Juster vinduer";
 "Align windows:" = "Tilpas vinduer:";
 "All apps" = "Alle apps";
-"All data from this form will be made public, as a ticket on github.com" = "Alt data fra denne formular vil blive gjort offentlig som en ticket på github.com";
 "All screens" = "Alle skræme";
 "All Spaces" = "Alle Områder";
 "Allowed" = "Tilladt";
@@ -112,7 +111,6 @@
 "Hold" = "Hold";
 "Horizontal Swipe with Four Fingers" = "Vandret strygning med fire fingre";
 "Horizontal Swipe with Three Fingers" = "Vandret strygning med tre fingre";
-"I think the app could be improved with…" = "Jeg synes appen kunne forbedres med...";
 "Ignore shortcuts when active" = "Ignorer genveje når aktiv";
 "Ignore shortcuts while a window from these apps is active" = "Ignorer genveje imens et vindue fra disse apps er aktiv";
 "Import settings…" = "Importer indstillinger…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Åbn pegefeltindstillinger…";
 "Optional: email (if you want a reply)" = "Valgfri: e-mail (hvis du vil have svar)";
 "Order windows by" = "Bestil vinduer efter";
-"Please fill in the form" = "Udfyld venligst formularen";
 "Policies" = "Politikker";
 "Preferences…" = "Indstillinger…";
 "Preview selected window" = "Eksempel på valgt vindue";
@@ -192,12 +189,8 @@
 "Send" = "Send";
 "Send a crash report?" = "Send uventet afslutningsrapport?";
 "Send anyway" = "Send alligevel";
-"Send debug profile (CPU, memory, etc)" = "Send debug profil (CPU, hukommelse, osv.)";
-"Send feedback" = "Send evaluering";
-"Send feedback…" = "Send evaluering...";
 "Settings imported" = "Indstillinger importeret";
 "Settings…" = "Indstillinger";
-"Share improvement ideas, or report bugs" = "Del forbedrelsesidéer eller rappport fejl";
 "Shortcut" = "Genvej";
 "Shortcut 1" = "Genvej 1";
 "Shortcut 2" = "Genvej 2";
@@ -266,7 +259,6 @@
 "Version" = "Version";
 "Vertical Swipe with Four Fingers" = "Lodret strygning med fire fingre";
 "Vertical Swipe with Three Fingers" = "Lodret strygning med tre fingre";
-"View existing discussions" = "Vis eksisterende diskussioner";
 "Vim keys" = "Vim taster";
 "Vim keys already assigned to other actions:\n%@" = "Vim taster allerede tildelt til andre funktioner: %@";
 "Visibility" = "Sigtbarhed";

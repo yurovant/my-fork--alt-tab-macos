@@ -47,7 +47,6 @@
 "All apps" = "All apps";
 
 /* No comment provided by engineer. */
-"All data from this form will be made public, as a ticket on github.com" = "All data from this form will be made public, as a ticket on github.com";
 
 /* No comment provided by engineer. */
 "All screens" = "All screens";
@@ -248,7 +247,6 @@
 "Hold" = "Hold";
 
 /* No comment provided by engineer. */
-"I think the app could be improved with…" = "I think the app could be improved with…";
 
 /* No comment provided by engineer. */
 "Ignore shortcuts when active" = "Ignore shortcuts when active";
@@ -341,7 +339,6 @@
 "Order windows by" = "Order windows by";
 
 /* No comment provided by engineer. */
-"Please fill in the form" = "Please fill in the form";
 
 /* No comment provided by engineer. */
 "Preview selected window" = "Preview selected window";
@@ -408,13 +405,10 @@
 "Send a crash report?" = "Send a crash report?";
 
 /* No comment provided by engineer. */
-"Send debug profile (CPU, memory, etc)" = "Send debug profile (CPU, memory, etc)";
 
 /* No comment provided by engineer. */
-"Send feedback" = "Send feedback";
 
 /* Menubar option */
-"Send feedback…" = "Send feedback…";
 
 /* No comment provided by engineer. */
 "Settings imported" = "Settings imported";
@@ -423,7 +417,6 @@
 "Settings…" = "Settings…";
 
 /* No comment provided by engineer. */
-"Share improvement ideas, or report bugs" = "Share improvement ideas, or report bugs";
 
 /* No comment provided by engineer. */
 "Shortcut" = "Shortcut";
@@ -573,7 +566,6 @@
 "Version" = "Version";
 
 /* No comment provided by engineer. */
-"View existing discussions" = "View existing discussions";
 
 /* No comment provided by engineer. */
 "Vim keys" = "Vim keys";

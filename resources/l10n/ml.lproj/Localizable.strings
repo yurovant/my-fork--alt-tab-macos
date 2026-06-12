@@ -19,7 +19,6 @@
 "Align windows" = "Align windows";
 "Align windows:" = "വിൻഡോകൾ ക്രമീകരിക്കുക:";
 "All apps" = "All apps";
-"All data from this form will be made public, as a ticket on github.com" = "All data from this form will be made public, as a ticket on github.com";
 "All screens" = "All screens";
 "All Spaces" = "All Spaces";
 "Allowed" = "Allowed";
@@ -112,7 +111,6 @@
 "Hold" = "Hold";
 "Horizontal Swipe with Four Fingers" = "നാല് വിരലുകൾ ഉപയോഗിച്ച് തിരശ്ചീന സ്വൈപ്പ്";
 "Horizontal Swipe with Three Fingers" = "മൂന്ന് വിരലുകൾ ഉപയോഗിച്ച് തിരശ്ചീന സ്വൈപ്പ്";
-"I think the app could be improved with…" = "I think the app could be improved with…";
 "Ignore shortcuts when active" = "Ignore shortcuts when active";
 "Ignore shortcuts while a window from these apps is active" = "ഈ ആപ്പുകളിൽ നിന്നുള്ള ഒരു വിൻഡോ സജീവമായിരിക്കുമ്പോൾ കുറുക്കുവഴികൾ അവഗണിക്കുക";
 "Import settings…" = "ക്രമീകരണങ്ങൾ ഇംപോർട്ട് ചെയ്യുക…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "ട്രാക്ക്പാഡ് ക്രമീകരണങ്ങൾ തുറക്കുക…";
 "Optional: email (if you want a reply)" = "Optional: email (if you want a reply)";
 "Order windows by" = "Order windows by";
-"Please fill in the form" = "ദയവായി ഫോം പൂരിപ്പിക്കുക";
 "Policies" = "Policies";
 "Preferences…" = "Preferences…";
 "Preview selected window" = "Preview selected window";
@@ -192,12 +189,8 @@
 "Send" = "Send";
 "Send a crash report?" = "Send a crash report?";
 "Send anyway" = "Send anyway";
-"Send debug profile (CPU, memory, etc)" = "Send debug profile (CPU, memory, etc)";
-"Send feedback" = "Send feedback";
-"Send feedback…" = "Send feedback…";
 "Settings imported" = "ക്രമീകരണങ്ങൾ ഇറക്കുമതി ചെയ്തു";
 "Settings…" = "ക്രമീകരണങ്ങൾ";
-"Share improvement ideas, or report bugs" = "Share improvement ideas, or report bugs";
 "Shortcut" = "കുറുക്കുവഴി";
 "Shortcut 1" = "Shortcut 1";
 "Shortcut 2" = "Shortcut 2";
@@ -266,7 +259,6 @@
 "Version" = "Version";
 "Vertical Swipe with Four Fingers" = "നാല് വിരലുകൾ ഉപയോഗിച്ച് ലംബ സ്വൈപ്പ്";
 "Vertical Swipe with Three Fingers" = "മൂന്ന് വിരലുകൾ ഉപയോഗിച്ച് ലംബ സ്വൈപ്പ്";
-"View existing discussions" = "View existing discussions";
 "Vim keys" = "വിം കീകൾ";
 "Vim keys already assigned to other actions:\n%@" = "Vim keys already assigned to other actions:\n%@";
 "Visibility" = "Visibility";

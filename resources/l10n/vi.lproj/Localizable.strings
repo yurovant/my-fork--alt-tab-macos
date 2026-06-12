@@ -19,7 +19,6 @@
 "Align windows" = "Căn chỉnh cửa sổ";
 "Align windows:" = "Xếp hàng các cửa sổ:";
 "All apps" = "Tất cả ứng dụng";
-"All data from this form will be made public, as a ticket on github.com" = "Tất cả dữ liệu từ biểu mẫu này sẽ được công khai, dưới dạng một ticket trên github.com";
 "All screens" = "Tất cả màn hình";
 "All Spaces" = "Tất cả khoảng trống";
 "Allowed" = "Cho phép";
@@ -112,7 +111,6 @@
 "Hold" = "Giữ";
 "Horizontal Swipe with Four Fingers" = "Vuốt ngang bốn ngón tay";
 "Horizontal Swipe with Three Fingers" = "Vuốt ngang ba ngón tay";
-"I think the app could be improved with…" = "Tôi nghĩ app có thể được cải thiện về mặt...";
 "Ignore shortcuts when active" = "Bỏ qua phím tắt khi hoạt động";
 "Ignore shortcuts while a window from these apps is active" = "Bỏ qua phím tắt khi một cửa sổ trong các ứng dụng sau đang bật";
 "Import settings…" = "Nhập cài đặt…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Mở Cài đặt Trackpad…";
 "Optional: email (if you want a reply)" = "Tuỳ chọn: email (nếu bạn muốn nhận hồi âm)";
 "Order windows by" = "Đặt hàng Windows By";
-"Please fill in the form" = "Vui lòng điền vào biểu mẫu";
 "Policies" = "Điều khoản";
 "Preferences…" = "Tuỳ chỉnh";
 "Preview selected window" = "Xem trước cửa sổ đang chọn";
@@ -192,12 +189,8 @@
 "Send" = "Gửi";
 "Send a crash report?" = "Gửi một báo cáo sự cố?";
 "Send anyway" = "Cứ gửi đi";
-"Send debug profile (CPU, memory, etc)" = "Gửi thông tin gỡ lỗi (CPU, bộ nhớ, vv)";
-"Send feedback" = "Gửi phản hồi";
-"Send feedback…" = "Gửi phản hồi...";
 "Settings imported" = "Đã nhập cài đặt";
 "Settings…" = "Cài đặt";
-"Share improvement ideas, or report bugs" = "Góp ý tưởng cải tiến hoặc sửa lỗi ứng dụng";
 "Shortcut" = "Phím tắt";
 "Shortcut 1" = "Phím tắt 1";
 "Shortcut 2" = "Phím tắt 2";
@@ -266,7 +259,6 @@
 "Version" = "Phiên bản";
 "Vertical Swipe with Four Fingers" = "Vuốt dọc bốn ngón tay";
 "Vertical Swipe with Three Fingers" = "Vuốt dọc ba ngón tay";
-"View existing discussions" = "Xem các cuộc thảo luận đã có";
 "Vim keys" = "Tổ hợp phím Vim";
 "Vim keys already assigned to other actions:\n%@" = "Tổ hợp phím Vim đã được đặt cho hành động khác: \n%@";
 "Visibility" = "Khả năng hiển thị";

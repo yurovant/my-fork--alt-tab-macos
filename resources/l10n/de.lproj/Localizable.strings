@@ -19,7 +19,6 @@
 "Align windows" = "Fenster ausrichten";
 "Align windows:" = "Fenster ausrichten:";
 "All apps" = "Alle Anwendungen";
-"All data from this form will be made public, as a ticket on github.com" = "Alle hier eingegebenen Daten werden auf github.com in Form eines Tickets öffentlich einsehbar sein";
 "All screens" = "Alle Bildschirme";
 "All Spaces" = "Alle Spaces";
 "Allowed" = "Erlaubt";
@@ -112,7 +111,6 @@
 "Hold" = "Halten";
 "Horizontal Swipe with Four Fingers" = "Horizontales Wischen mit vier Fingern";
 "Horizontal Swipe with Three Fingers" = "Horizontales Wischen mit drei Fingern";
-"I think the app could be improved with…" = "Ich denke, die Anwendung könnte wie folgt verbessert werden…";
 "Ignore shortcuts when active" = "Kurzbefehle ignorieren, wenn aktiv";
 "Ignore shortcuts while a window from these apps is active" = "Kurzbefehle ignorieren, wenn ein Fenster dieser App aktiv ist";
 "Import settings…" = "Einstellungen importieren…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Trackpad-Einstellungen öffnen";
 "Optional: email (if you want a reply)" = "Optional: E-Mail-Adresse (wenn Sie eine Antwort wünschen)";
 "Order windows by" = "Fenster anordnen nach";
-"Please fill in the form" = "Bitte füllen Sie das Formular aus";
 "Policies" = "Richtlinien";
 "Preferences…" = "Einstellungen…";
 "Preview selected window" = "Vorschau ausgewähltes Fenster";
@@ -192,12 +189,8 @@
 "Send" = "Senden";
 "Send a crash report?" = "Absturzbericht senden?";
 "Send anyway" = "Trotzdem senden";
-"Send debug profile (CPU, memory, etc)" = "Debug-Profil senden (CPU, Speicher, etc)";
-"Send feedback" = "Feedback senden";
-"Send feedback…" = "Feedback senden…";
 "Settings imported" = "Einstellungen importiert";
 "Settings…" = "Einstellungen";
-"Share improvement ideas, or report bugs" = "Teilen Sie uns Ihre Vorschläge mit oder melden Sie einen Fehler";
 "Shortcut" = "Tastenkombination";
 "Shortcut 1" = "Kurzbefehl 1";
 "Shortcut 2" = "Kurzbefehl 2";
@@ -266,7 +259,6 @@
 "Version" = "Version";
 "Vertical Swipe with Four Fingers" = "Vertikales Wischen mit vier Fingern";
 "Vertical Swipe with Three Fingers" = "Vertikales Wischen mit drei Fingern";
-"View existing discussions" = "Bestehende Vorschläge anzeigen";
 "Vim keys" = "Vim-Tastenbelegung";
 "Vim keys already assigned to other actions:\n%@" = "VIM-Tasten, die bereits anderen Aktionen zugewiesen sind:\n%@";
 "Visibility" = "Sichtbarkeit";

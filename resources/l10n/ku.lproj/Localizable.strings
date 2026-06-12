@@ -19,7 +19,6 @@
 "Align windows" = "Windows align";
 "Align windows:" = "Paceyan birêzîne:";
 "All apps" = "Hemû sepan";
-"All data from this form will be made public, as a ticket on github.com" = "Hemû daneyên ji vê formê dê bibe gelemper, li ser github.com'ê weke etîketekê";
 "All screens" = "Hemû pace";
 "All Spaces" = "Hemê Valahî";
 "Allowed" = "Destûrdayî";
@@ -112,7 +111,6 @@
 "Hold" = "Pêbigre";
 "Horizontal Swipe with Four Fingers" = "ڕاماڵینی ئاسۆیی بە چوار پەنجە";
 "Horizontal Swipe with Three Fingers" = "ڕاماڵینی ئاسۆیی بە سێ پەنجە";
-"I think the app could be improved with…" = "Li gorî min sepên dikari bi ... ve bê geşandin.";
 "Ignore shortcuts when active" = "Dema ku çalak bibe kurteyên kurt bikin";
 "Ignore shortcuts while a window from these apps is active" = "کورتکراوەکان پشتگوێ بخە کاتێک پەنجەرەیەک لەم ئەپانە چالاکە";
 "Import settings…" = "هاوردەکردنی ڕێکخستنەکان…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "کردنەوەی ڕێکخستنەکانی تڕاکپاد… (Trackpad Settings)";
 "Optional: email (if you want a reply)" = "Vebijarkî: email (Heke hûn bersivek dixwazin)";
 "Order windows by" = "Fermana Windows by";
-"Please fill in the form" = "تکایە فۆڕمەکە پڕبکەرەوە";
 "Policies" = "Polîtîkayên";
 "Preferences…" = "Taybetmendî";
 "Preview selected window" = "Pencereya hilbijartî ya pêşîn";
@@ -192,12 +189,8 @@
 "Send" = "Bişîne";
 "Send a crash report?" = "Raporek Crash bişînin?";
 "Send anyway" = "Dîsa jî bişîne";
-"Send debug profile (CPU, memory, etc)" = "Profilêke (CPU, memory, etc.) debugî bişîne.";
-"Send feedback" = "Nêrînekê bişîne";
-"Send feedback…" = "Nêrînekê bişîne...";
 "Settings imported" = "ڕێکخستنەکان هاوردە کران";
 "Settings…" = "ڕێکخستنەکان";
-"Share improvement ideas, or report bugs" = "Fikrên werardinê bişîne, an bugan ragihîne";
 "Shortcut" = "کورتەڕێگا";
 "Shortcut 1" = "Kurtebir 1";
 "Shortcut 2" = "Kurtebir 2";
@@ -266,7 +259,6 @@
 "Version" = "Versîyon";
 "Vertical Swipe with Four Fingers" = "ڕاماڵینی ستوونی بە چوار پەنجە";
 "Vertical Swipe with Three Fingers" = "ڕاماڵینی ستوونی بە سێ پەنجە";
-"View existing discussions" = "Niqaşên heyî bibînin";
 "Vim keys" = "کلیلەکانی ڤیم";
 "Vim keys already assigned to other actions:\n%@" = "Bişkojkên VIM berê ji bo kiryarên din hatine veqetandin: \\ N% @";
 "Visibility" = "Dîtinî";

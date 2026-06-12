@@ -19,7 +19,6 @@
 "Align windows" = "Jajarake jendhela";
 "Align windows:" = "Jajarake jendhela:";
 "All apps" = "Kabeh app";
-"All data from this form will be made public, as a ticket on github.com" = "Kabeh data saka formulir iki bakal digawe publik, minangka tiket ing github.com";
 "All screens" = "Kabeh layar";
 "All Spaces" = "Kabeh Spasi";
 "Allowed" = "Diijini";
@@ -112,7 +111,6 @@
 "Hold" = "ꦥꦼꦤꦼꦠ꧀";
 "Horizontal Swipe with Four Fingers" = "Geser Horizontal nganggo Sekawan Jari";
 "Horizontal Swipe with Three Fingers" = "Geser Horizontal nganggo Tigang Jari";
-"I think the app could be improved with…" = "Kula mikir app saged dipun apikake kanthi…";
 "Ignore shortcuts when active" = "Abaikan cekakan nalika aktif";
 "Ignore shortcuts while a window from these apps is active" = "Abaikan trabasan nalika jendhela saka app iki aktif";
 "Import settings…" = "Impor setelan…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Bukak Setelan Trackpad…";
 "Optional: email (if you want a reply)" = "Opsional: email (menawi panjenengan pengen balesan)";
 "Order windows by" = "Urutake jendela miturut";
-"Please fill in the form" = "Mangga isi formulir";
 "Policies" = "Kebijakan";
 "Preferences…" = "Preferensi…";
 "Preview selected window" = "Pratinjau jendela sing dipilih";
@@ -192,12 +189,8 @@
 "Send" = "Kirim";
 "Send a crash report?" = "Kirim laporan macet?";
 "Send anyway" = "Kirim wae";
-"Send debug profile (CPU, memory, etc)" = "Kirim profil debug (CPU, memori, lsp)";
-"Send feedback" = "Kirim saran";
-"Send feedback…" = "Kirim saran…";
 "Settings imported" = "Setelan wis diimpor";
 "Settings…" = "Setelan";
-"Share improvement ideas, or report bugs" = "Share ide perbaikan, utawi laporan bug";
 "Shortcut" = "Trabasan";
 "Shortcut 1" = "Cekakan 1";
 "Shortcut 2" = "Cekakan 2";
@@ -266,7 +259,6 @@
 "Version" = "ꦒꦒꦿꦒ꧀";
 "Vertical Swipe with Four Fingers" = "Geser Vertikal nganggo Sekawan Jari";
 "Vertical Swipe with Three Fingers" = "Geser Vertikal nganggo Tigang Jari";
-"View existing discussions" = "Deleng diskusi sing wis ana";
 "Vim keys" = "Tombol Vim";
 "Vim keys already assigned to other actions:\n%@" = "Tombol Vim wis ditugasake menyang tumindak liyane:\n%@";
 "Visibility" = "Visibilitas";

@@ -19,7 +19,6 @@
 "Align windows" = "विंडो संरेखित करा";
 "Align windows:" = "विंडोज संरेखित करा:";
 "All apps" = "सर्व ॲप्स";
-"All data from this form will be made public, as a ticket on github.com" = "या फॉर्ममधील सर्व डेटा github.com वर तिकीट म्हणून सार्वजनिक केला जाईल";
 "All screens" = "सर्व स्क्रीन";
 "All Spaces" = "सर्व स्पेसेस";
 "Allowed" = "अनुमती आहे";
@@ -112,7 +111,6 @@
 "Hold" = "धरून ठेवा";
 "Horizontal Swipe with Four Fingers" = "चार बोटांनी आडवा स्वाइप";
 "Horizontal Swipe with Three Fingers" = "तीन बोटांनी आडवा स्वाइप";
-"I think the app could be improved with…" = "माझ्या मते अ‍ॅप यामध्ये सुधारित केले जाऊ शकते…";
 "Ignore shortcuts when active" = "सक्रिय असताना शॉर्टकटकडे दुर्लक्ष करा";
 "Ignore shortcuts while a window from these apps is active" = "या ॲप्समधील विंडो सक्रिय असताना शॉर्टकटकडे दुर्लक्ष करा";
 "Import settings…" = "सेटिंग्ज आयात करा…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "ट्रॅकपॅड सेटिंग्ज उघडा…";
 "Optional: email (if you want a reply)" = "ऐच्छिक: ईमेल (तुम्हाला उत्तर हवे असल्यास)";
 "Order windows by" = "विंडोजची क्रमवारी लावा";
-"Please fill in the form" = "कृपया फॉर्म भरा";
 "Policies" = "धोरणे";
 "Preferences…" = "प्राधान्ये…";
 "Preview selected window" = "निवडलेल्या विंडोचे पूर्वावलोकन";
@@ -192,12 +189,8 @@
 "Send" = "पाठवा";
 "Send a crash report?" = "क्रॅश अहवाल पाठवायचा?";
 "Send anyway" = "तरीही पाठवा";
-"Send debug profile (CPU, memory, etc)" = "डीबग प्रोफाइल पाठवा (CPU, मेमरी, इत्यादी)";
-"Send feedback" = "अभिप्राय पाठवा";
-"Send feedback…" = "अभिप्राय पाठवा…";
 "Settings imported" = "सेटिंग्ज आयात केल्या";
 "Settings…" = "सेटिंग्ज";
-"Share improvement ideas, or report bugs" = "सुधारणा कल्पना सामायिक करा किंवा बगची तक्रार करा";
 "Shortcut" = "शॉर्टकट";
 "Shortcut 1" = "शॉर्टकट १";
 "Shortcut 2" = "शॉर्टकट २";
@@ -266,7 +259,6 @@
 "Version" = "आवृत्ती";
 "Vertical Swipe with Four Fingers" = "चार बोटांनी उभा स्वाइप";
 "Vertical Swipe with Three Fingers" = "तीन बोटांनी उभा स्वाइप";
-"View existing discussions" = "विद्यमान चर्चा पहा";
 "Vim keys" = "विम कीज";
 "Vim keys already assigned to other actions:\n%@" = "विम कीज आधीच इतर कार्यांसाठी नियुक्त केलेल्या आहेत:\n%@";
 "Visibility" = "दृश्यमानता";

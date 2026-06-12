@@ -19,7 +19,6 @@
 "Align windows" = "Samræma glugga";
 "Align windows:" = "Stilla glugga:";
 "All apps" = "Öll forrit";
-"All data from this form will be made public, as a ticket on github.com" = "Öll gögn frá þessu formi verða gerð opinber, sem miði á github.com";
 "All screens" = "Allir skjáir";
 "All Spaces" = "Öll umhverfi";
 "Allowed" = "Leyft";
@@ -112,7 +111,6 @@
 "Hold" = "Halda inni";
 "Horizontal Swipe with Four Fingers" = "Lárétt strjúka með fjórum fingrum";
 "Horizontal Swipe with Three Fingers" = "Lárétt strjúka með þremur fingrum";
-"I think the app could be improved with…" = "Ég tel að forritið gæti orðið betra með";
 "Ignore shortcuts when active" = "Hunsa flýtileiðir þegar forrit keyrir";
 "Ignore shortcuts while a window from these apps is active" = "Hunsa flýtivísar þegar gluggi úr þessum forritum er virkur";
 "Import settings…" = "Flytja inn stillingar…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Opna snertiflötustillingar…";
 "Optional: email (if you want a reply)" = "Valkvætt: netfang (ef þú vilt svar)";
 "Order windows by" = "Pantaðu glugga eftir";
-"Please fill in the form" = "Vinsamlegast fylltu út eyðublaðið";
 "Policies" = "Stefnur";
 "Preferences…" = "Stillingar";
 "Preview selected window" = "Forsýning Valinn gluggi";
@@ -192,12 +189,8 @@
 "Send" = "Senda";
 "Send a crash report?" = "Senda krass-skýrslu?";
 "Send anyway" = "Senda samt";
-"Send debug profile (CPU, memory, etc)" = "Senda ítarupplýsingar (CPU, minni, etc)";
-"Send feedback" = "Senda tillögur";
-"Send feedback…" = "Senda tillögur";
 "Settings imported" = "Stillingar fluttar inn";
 "Settings…" = "Stillingar";
-"Share improvement ideas, or report bugs" = "Deila hugmyndum um viðbætur, eða tilkynna villu";
 "Shortcut" = "Flýtivísun";
 "Shortcut 1" = "Flýtileið 1";
 "Shortcut 2" = "Flýtileið 2";
@@ -266,7 +259,6 @@
 "Version" = "Útgáfa";
 "Vertical Swipe with Four Fingers" = "Lóðrétt strjúka með fjórum fingrum";
 "Vertical Swipe with Three Fingers" = "Lóðrétt strjúka með þremur fingrum";
-"View existing discussions" = "Sjá umræður";
 "Vim keys" = "Vim lyklar";
 "Vim keys already assigned to other actions:\n%@" = "Vim lyklar nú þegar skráðir á aðrar virknir";
 "Visibility" = "Skyggni";

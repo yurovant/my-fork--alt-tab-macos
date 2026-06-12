@@ -26,8 +26,6 @@
 	<string>#VERSION#</string>
 	<key>CFBundleVersion</key>
 	<string>#VERSION#</string>
-	<key>FeedbackToken</key>
-	<string>#FEEDBACK_TOKEN#</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.utilities</string>
 	<key>LSMinimumSystemVersion</key>

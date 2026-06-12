@@ -19,7 +19,6 @@
 "Align windows" = "ونڈوز کو سیدھ میں لائیں";
 "Align windows:" = "ونڈوز سیدھی کریں:";
 "All apps" = "تمام ایپس";
-"All data from this form will be made public, as a ticket on github.com" = "اس فارم کا تمام ڈیٹا عوامی کر دیا جائے گا، بطور ٹکٹ github.com پر";
 "All screens" = "تمام سکرینز";
 "All Spaces" = "تمام اسپیسز";
 "Allowed" = "اجازت ہے";
@@ -112,7 +111,6 @@
 "Hold" = "ہولڈ";
 "Horizontal Swipe with Four Fingers" = "چار انگلیوں سے افقی سوائپ";
 "Horizontal Swipe with Three Fingers" = "تین انگلیوں سے افقی سوائپ";
-"I think the app could be improved with…" = "مجھے لگتا ہے کہ ایپ کو بہتر بنایا جا سکتا ہے…";
 "Ignore shortcuts when active" = "فعال ہونے پر شارٹ کٹس کو نظر انداز کریں";
 "Ignore shortcuts while a window from these apps is active" = "ان ایپس کی ونڈو فعال ہونے پر شارٹ کٹس کو نظر انداز کریں";
 "Import settings…" = "ترتیبات درآمد کریں…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "ٹریک پیڈ کی ترتیبات کھولیں…";
 "Optional: email (if you want a reply)" = "اختیاری: ای میل (اگر آپ جواب چاہتے ہیں)";
 "Order windows by" = "ونڈوز کو ترتیب دیں";
-"Please fill in the form" = "براہ کرم فارم پُر کریں";
 "Policies" = "پالیسیاں";
 "Preferences…" = "ترجیحات…";
 "Preview selected window" = "منتخب ونڈو کا پیش نظارہ";
@@ -192,12 +189,8 @@
 "Send" = "بھیجیں";
 "Send a crash report?" = "ایک کریش رپورٹ بھیجیں؟";
 "Send anyway" = "پھر بھی بھیجیں";
-"Send debug profile (CPU, memory, etc)" = "ڈیبگ پروفائل بھیجیں (سی پی یو، میموری وغیرہ)";
-"Send feedback" = "فیڈ بیک بھیجیں";
-"Send feedback…" = "فیڈ بیک بھیجیں…";
 "Settings imported" = "ترتیبات درآمد ہو گئیں";
 "Settings…" = "ترتیبات";
-"Share improvement ideas, or report bugs" = "بہتری کے خیالات شیئر کریں، یا کیڑے رپورٹ کریں";
 "Shortcut" = "شارٹ کٹ";
 "Shortcut 1" = "شارٹ کٹ 1";
 "Shortcut 2" = "شارٹ کٹ 2";
@@ -266,7 +259,6 @@
 "Version" = "ورژن";
 "Vertical Swipe with Four Fingers" = "چار انگلیوں سے عمودی سوائپ";
 "Vertical Swipe with Three Fingers" = "تین انگلیوں سے عمودی سوائپ";
-"View existing discussions" = "موجودہ مباحثے دیکھیں";
 "Vim keys" = "ویم کیز";
 "Vim keys already assigned to other actions:\n%@" = "ویم کیز پہلے ہی دوسرے اعمال کو تفویض ہیں:\n%@";
 "Visibility" = "مرئیت";

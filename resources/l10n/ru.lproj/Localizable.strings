@@ -19,7 +19,6 @@
 "Align windows" = "Выравнивание окон";
 "Align windows:" = "Выравнивание окон:";
 "All apps" = "Все приложения";
-"All data from this form will be made public, as a ticket on github.com" = "Все данные из этой формы будут опубликованы в виде вопроса на github.com";
 "All screens" = "Все экраны";
 "All Spaces" = "Все рабочие столы";
 "Allowed" = "Разрешено";
@@ -112,7 +111,6 @@
 "Hold" = "Удерживать";
 "Horizontal Swipe with Four Fingers" = "Горизонтальный свайп четырьмя пальцами";
 "Horizontal Swipe with Three Fingers" = "Горизонтальный свайп тремя пальцами";
-"I think the app could be improved with…" = "Я думаю, что приложение может быть улучшено…";
 "Ignore shortcuts when active" = "Игнорировать комбинации, когда активно";
 "Ignore shortcuts while a window from these apps is active" = "Игнорировать комбинации клавиш пока окно приложения из этого списка активно";
 "Import settings…" = "Импорт настроек...";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Открыть настройки трекпада";
 "Optional: email (if you want a reply)" = "Опционально: эл.почта (если вы хотите ответа)";
 "Order windows by" = "Сортировка окон";
-"Please fill in the form" = "Пожалуйста, заполните форму";
 "Policies" = "Правила";
 "Preferences…" = "Настройки…";
 "Preview selected window" = "Миниатюра выбранного окна";
@@ -192,12 +189,8 @@
 "Send" = "Отправить";
 "Send a crash report?" = "Отправить отчет о вылете?";
 "Send anyway" = "Все равно отправить";
-"Send debug profile (CPU, memory, etc)" = "Отправить отладочный профиль (CPU, память и т.д.)";
-"Send feedback" = "Отправить отзыв";
-"Send feedback…" = "Отправить отзыв…";
 "Settings imported" = "Настройки импортированы";
 "Settings…" = "Настройки";
-"Share improvement ideas, or report bugs" = "Поделитесь идеями по улучшению или сообщите об ошибках";
 "Shortcut" = "Ярлык";
 "Shortcut 1" = "Комбинация 1";
 "Shortcut 2" = "Комбинация 2";
@@ -266,7 +259,6 @@
 "Version" = "Версия";
 "Vertical Swipe with Four Fingers" = "Вертикальный свайп четырьмя пальцами";
 "Vertical Swipe with Three Fingers" = "Вертикальный свайп тремя пальцами";
-"View existing discussions" = "Посмотреть обсуждения";
 "Vim keys" = "Vim клавиши";
 "Vim keys already assigned to other actions:\n%@" = "Vim клавиши уже назначены на другие действия:\n%@";
 "Visibility" = "Видимость";

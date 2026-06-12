@@ -19,7 +19,6 @@
 "Align windows" = "விண்டோஸை சீரமைக்கவும்";
 "Align windows:" = "ஜன்னலை சீரமை:";
 "All apps" = "அனைத்து பயன்பாடுகளும்";
-"All data from this form will be made public, as a ticket on github.com" = "இந்த படிவத்திலிருந்து வரும் அனைத்து தரவும் Github.com இல் டிக்கெட்டாக பகிரங்கப்படுத்தப்படும்";
 "All screens" = "அனைத்து திரைகளும்";
 "All Spaces" = "அனைத்து இடங்களும்";
 "Allowed" = "அனுமதிக்கப்படுகிறது";
@@ -112,7 +111,6 @@
 "Hold" = "பிடி";
 "Horizontal Swipe with Four Fingers" = "நான்கு விரல்களால் கிடைமட்ட ஸ்வைப்";
 "Horizontal Swipe with Three Fingers" = "மூன்று விரல்களால் கிடைமட்ட ஸ்வைப்";
-"I think the app could be improved with…" = "பயன்பாட்டை மேம்படுத்த முடியும் என்று நினைக்கிறேன்…";
 "Ignore shortcuts when active" = "செயலில் இருக்கும்போது குறுக்குவழிகளை புறக்கணிக்கவும்";
 "Ignore shortcuts while a window from these apps is active" = "இந்த பயன்பாடுகளிலிருந்து ஒரு சாளரம் செயலில் இருக்கும்போது குறுக்குவழிகளைப் புறக்கணிக்கவும்";
 "Import settings…" = "அமைப்புகளை இறக்குமதி செய்…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "டிராக்பேட் அமைப்புகளைத் திற…";
 "Optional: email (if you want a reply)" = "விரும்பினால்: மின்னஞ்சல் (நீங்கள் பதில் விரும்பினால்)";
 "Order windows by" = "விண்டோஸை ஆர்டர் செய்யுங்கள்";
-"Please fill in the form" = "படிவத்தைப் பூர்த்தி செய்யவும்";
 "Policies" = "கொள்கைகள்";
 "Preferences…" = "விருப்பத்தேர்வுகள்…";
 "Preview selected window" = "தேர்ந்தெடுக்கப்பட்ட சாளரத்தை முன்னோட்டம்";
@@ -192,12 +189,8 @@
 "Send" = "அனுப்பு";
 "Send a crash report?" = "செயலிழப்பு அறிக்கையை அனுப்பவா?";
 "Send anyway" = "எப்படியும் அனுப்புங்கள்";
-"Send debug profile (CPU, memory, etc)" = "பிழைத்திருத்த சுயவிவரத்தை அனுப்பவும் (CPU, நினைவகம் போன்றவை)";
-"Send feedback" = "கருத்துக்களை அனுப்பவும்";
-"Send feedback…" = "கருத்துக்களை அனுப்பவும்…";
 "Settings imported" = "அமைப்புகள் இறக்குமதி செய்யப்பட்டன";
 "Settings…" = "அமைப்புகள்";
-"Share improvement ideas, or report bugs" = "மேம்பாட்டு யோசனைகளைப் பகிரவும் அல்லது பிழைகள் புகாரளிக்கவும்";
 "Shortcut" = "குறுக்குவழி";
 "Shortcut 1" = "குறுக்குவழி 1";
 "Shortcut 2" = "குறுக்குவழி 2";
@@ -266,7 +259,6 @@
 "Version" = "பதிப்பு";
 "Vertical Swipe with Four Fingers" = "நான்கு விரல்களால் செங்குத்து ஸ்வைப்";
 "Vertical Swipe with Three Fingers" = "மூன்று விரல்களால் செங்குத்து ஸ்வைப்";
-"View existing discussions" = "தற்போதுள்ள விவாதங்களைக் காண்க";
 "Vim keys" = "Vim விசைகள்";
 "Vim keys already assigned to other actions:\n%@" = "மற்ற செயல்களுக்கு ஏற்கனவே ஒதுக்கப்பட்ட VIM விசைகள்: \\ n%@";
 "Visibility" = "பார்வை";

@@ -19,7 +19,6 @@
 "Align windows" = "Rreshtoni dritaret";
 "Align windows:" = "Rradhit dritaret:";
 "All apps" = "Të gjitha aplikacionet";
-"All data from this form will be made public, as a ticket on github.com" = "Të gjitha të dhënat nga kjo formë bëhen publike, si tiketë në github.com";
 "All screens" = "Të gjitha dritaret";
 "All Spaces" = "Të gjitha hapësirat";
 "Allowed" = "E lejuar";
@@ -112,7 +111,6 @@
 "Hold" = "Mbaj";
 "Horizontal Swipe with Four Fingers" = "Rrëshqitje horizontale me katër gishta";
 "Horizontal Swipe with Three Fingers" = "Rrëshqitje horizontale me tre gishta";
-"I think the app could be improved with…" = "Mendoj se aplikacioni mund të përmirësohet me…";
 "Ignore shortcuts when active" = "Injoroni shkurtesat kur janë aktive";
 "Ignore shortcuts while a window from these apps is active" = "Injoro shkurtesat kur një dritare nga këto aplikacione është aktive";
 "Import settings…" = "Importo cilësimet…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Hap cilësimet e Trackpad-it…";
 "Optional: email (if you want a reply)" = "Jo-Obligative: E-mail (nëse doni përgjigje)";
 "Order windows by" = "Porosit dritaret nga";
-"Please fill in the form" = "Ju lutemi plotësoni formularin";
 "Policies" = "Politikat";
 "Preferences…" = "Preferencat";
 "Preview selected window" = "Dritarja e zgjedhur e shikimit";
@@ -192,12 +189,8 @@
 "Send" = "Dërgo";
 "Send a crash report?" = "Dërgo raport dështimi?";
 "Send anyway" = "Sidoqoftë dërgo";
-"Send debug profile (CPU, memory, etc)" = "Dërgo profilin e korigjimit (CPU, memory, etc)";
-"Send feedback" = "Dërgo mendime";
-"Send feedback…" = "Dërgo mendime…";
 "Settings imported" = "Cilësimet u importuan";
 "Settings…" = "Cilësimet";
-"Share improvement ideas, or report bugs" = "Ndaj ide për përmirësim, ose raporto gabime";
 "Shortcut" = "Shkurtore";
 "Shortcut 1" = "Shkurtesa 1";
 "Shortcut 2" = "Shkurtesa 2";
@@ -266,7 +259,6 @@
 "Version" = "Verzioni";
 "Vertical Swipe with Four Fingers" = "Rrëshqitje vertikale me katër gishta";
 "Vertical Swipe with Three Fingers" = "Rrëshqitje vertikale me tre gishta";
-"View existing discussions" = "Shfaq diskutimet egzistuese";
 "Vim keys" = "Çelësat Vim";
 "Vim keys already assigned to other actions:\n%@" = "Çelësat vim tashmë të caktuar për veprime të tjera: \\ n%@";
 "Visibility" = "Shikim";

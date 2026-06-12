@@ -19,7 +19,6 @@
 "Align windows" = "Align Windows";
 "Align windows:" = "Luruskan jendela:";
 "All apps" = "Semua aplikasi";
-"All data from this form will be made public, as a ticket on github.com" = "Semua data dari formulir ini akan dipublikasikan, sebagai tiket di github.com";
 "All screens" = "Semua layar";
 "All Spaces" = "Semua ruang";
 "Allowed" = "Dibolehkan";
@@ -112,7 +111,6 @@
 "Hold" = "Tahan";
 "Horizontal Swipe with Four Fingers" = "Geser Horizontal dengan Empat Jari";
 "Horizontal Swipe with Three Fingers" = "Geser Horizontal dengan Tiga Jari";
-"I think the app could be improved with…" = "Saya pikir aplikasi dapat ditingkatkan dengan…";
 "Ignore shortcuts when active" = "Abaikan pintasan saat aktif";
 "Ignore shortcuts while a window from these apps is active" = "Abaikan pintasan saat jendela dari aplikasi ini aktif";
 "Import settings…" = "Impor pengaturan…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Buka Pengaturan Trackpad…";
 "Optional: email (if you want a reply)" = "Opsional: surel (jika kamu ingin dapatkan balasan)";
 "Order windows by" = "Pesan windows oleh";
-"Please fill in the form" = "Mohon isi formulir";
 "Policies" = "Kebijakan";
 "Preferences…" = "Preferensi…";
 "Preview selected window" = "Pratinjau jendela yang dipilih";
@@ -192,12 +189,8 @@
 "Send" = "Kirim";
 "Send a crash report?" = "Kirim sebuah laporan kerusakan?";
 "Send anyway" = "Tetap kirim";
-"Send debug profile (CPU, memory, etc)" = "Kirim profil debug (CPU, memori, dll)";
-"Send feedback" = "Kirim umpan balik";
-"Send feedback…" = "Kirim umpan balik…";
 "Settings imported" = "Pengaturan diimpor";
 "Settings…" = "Pengaturan";
-"Share improvement ideas, or report bugs" = "Bagikan gagasan peningkatan, atau laporkan bug";
 "Shortcut" = "Pintasan";
 "Shortcut 1" = "Pintasan 1";
 "Shortcut 2" = "Pintasan 2";
@@ -266,7 +259,6 @@
 "Version" = "Versi";
 "Vertical Swipe with Four Fingers" = "Geser Vertikal dengan Empat Jari";
 "Vertical Swipe with Three Fingers" = "Geser Vertikal dengan Tiga Jari";
-"View existing discussions" = "Lihat diskusi yang ada";
 "Vim keys" = "Tombol Vim";
 "Vim keys already assigned to other actions:\n%@" = "Kunci vim yang sudah ditetapkan untuk tindakan lain: \\ n%@";
 "Visibility" = "Visibilitas";

@@ -19,7 +19,6 @@
 "Align windows" = "윈도우 정렬";
 "Align windows:" = "윈도우 정렬:";
 "All apps" = "모든 앱";
-"All data from this form will be made public, as a ticket on github.com" = "위 양식의 모든 데이터는 github.com에 공개적으로 보여질 것입니다";
 "All screens" = "모든 화면";
 "All Spaces" = "모든 Space";
 "Allowed" = "허용됨";
@@ -112,7 +111,6 @@
 "Hold" = " ";
 "Horizontal Swipe with Four Fingers" = "네 손가락으로 좌우로 쓸기";
 "Horizontal Swipe with Three Fingers" = "세 손가락으로 좌우로 쓸기";
-"I think the app could be improved with…" = "이 앱의 개선안은…";
 "Ignore shortcuts when active" = "단축키 무시";
 "Ignore shortcuts while a window from these apps is active" = "다음 앱들의 윈도우가 활성 상태일 때 단축키를 무시합니다";
 "Import settings…" = "설정 가져오기…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "트랙패드 설정 열기…";
 "Optional: email (if you want a reply)" = "답변을 원하면 이메일 주소를 남겨주세요";
 "Order windows by" = "윈도우 정렬";
-"Please fill in the form" = "입력란을 채워주세요";
 "Policies" = "정책";
 "Preferences…" = "설정…";
 "Preview selected window" = "선택한 윈도우 미리보기";
@@ -192,12 +189,8 @@
 "Send" = "보내기";
 "Send a crash report?" = "충돌 보고서를 보낼까요?";
 "Send anyway" = "보내기";
-"Send debug profile (CPU, memory, etc)" = "디버깅 정보 보내기 (CPU, 메모리 등)";
-"Send feedback" = "피드백 보내기";
-"Send feedback…" = "피드백 보내기…";
 "Settings imported" = "설정이 가져와졌습니다";
 "Settings…" = "설정";
-"Share improvement ideas, or report bugs" = "개선안을 제안하거나 버그를 제보해주세요";
 "Shortcut" = "단축키";
 "Shortcut 1" = "단축키 1";
 "Shortcut 2" = "단축키 2";
@@ -266,7 +259,6 @@
 "Version" = "버전";
 "Vertical Swipe with Four Fingers" = "네 손가락으로 상하로 쓸기";
 "Vertical Swipe with Three Fingers" = "세 손가락으로 상하로 쓸기";
-"View existing discussions" = "진행 중인 논의 보기";
 "Vim keys" = "Vim 키";
 "Vim keys already assigned to other actions:\n%@" = "Vim 키들은 다음과 같이 배정되어 있습니다:\n%@";
 "Visibility" = "가시성";

@@ -19,7 +19,6 @@
 "Align windows" = "Poravnati okna";
 "Align windows:" = "Poravnava oken:";
 "All apps" = "Vse aplikacije";
-"All data from this form will be made public, as a ticket on github.com" = "Vsi podatki iz tega obrazca bodo objavljeni kot vozovnica na github.com";
 "All screens" = "Vsi zasloni";
 "All Spaces" = "Vsa Področja";
 "Allowed" = "Dovoljeno";
@@ -112,7 +111,6 @@
 "Hold" = "Pridži";
 "Horizontal Swipe with Four Fingers" = "Vodoraven poteg s štirimi prsti";
 "Horizontal Swipe with Three Fingers" = "Vodoraven poteg s tremi prsti";
-"I think the app could be improved with…" = "Menim, da bi lahko aplikacijo izboljšali z…";
 "Ignore shortcuts when active" = "Ignorirajte bližnjice, ko je aktivna";
 "Ignore shortcuts while a window from these apps is active" = "Ignoriraj bližnjice, ko je okno iz teh aplikacij aktivno";
 "Import settings…" = "Uvozi nastavitve…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Odpri nastavitve sledilne ploščice…";
 "Optional: email (if you want a reply)" = "Neobvezno: email (če želiš odgovor)";
 "Order windows by" = "Naročite Windows";
-"Please fill in the form" = "Prosimo, izpolnite obrazec";
 "Policies" = "Politike";
 "Preferences…" = "Nastavitve…";
 "Preview selected window" = "Predogled izbranega okna";
@@ -192,12 +189,8 @@
 "Send" = "Pošlji";
 "Send a crash report?" = "Pošljite poročilo o nesreči?";
 "Send anyway" = "Pošlji vseeno";
-"Send debug profile (CPU, memory, etc)" = "Pošlji razhroščevalni profil (CPU, pomnilnik, ipd.)";
-"Send feedback" = "Pošlji povratne informacije\n";
-"Send feedback…" = "Pošlji povratne informacije…";
 "Settings imported" = "Nastavitve uvožene";
 "Settings…" = "Nastavitve";
-"Share improvement ideas, or report bugs" = "Posreduj ideje za izboljšavo ali prijavi napako";
 "Shortcut" = "Bližnjica";
 "Shortcut 1" = "Bližnjica 1";
 "Shortcut 2" = "Bližnjica 2";
@@ -266,7 +259,6 @@
 "Version" = "Verzija";
 "Vertical Swipe with Four Fingers" = "Navpičen poteg s štirimi prsti";
 "Vertical Swipe with Three Fingers" = "Navpičen poteg s tremi prsti";
-"View existing discussions" = "Oglej si obstoječe debate";
 "Vim keys" = "Vim tipke";
 "Vim keys already assigned to other actions:\n%@" = "Vim Keys je že dodeljen drugim dejanjem: \\ n%@";
 "Visibility" = "Vidnost";

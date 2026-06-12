@@ -19,7 +19,6 @@
 "Align windows" = "Aligned Windows";
 "Align windows:" = "Fënster ausriichten:";
 "All apps" = "All Applikatioun";
-"All data from this form will be made public, as a ticket on github.com" = "All Daten aus dëser Form ginn ëffentlech gemaach, als en Ticket op Github.com";
 "All screens" = "All Schierm";
 "All Spaces" = "All Espace";
 "Allowed" = "Erlaabt";
@@ -112,7 +111,6 @@
 "Hold" = "Bäihalen";
 "Horizontal Swipe with Four Fingers" = "Horizontal wëschen mat véier Fangeren";
 "Horizontal Swipe with Three Fingers" = "Horizontal wëschen mat dräi Fangeren";
-"I think the app could be improved with…" = "Ech mengen d'App kéint verbessert ginn mat ...";
 "Ignore shortcuts when active" = "Ignoréieren Ofkiirzungen wann aktiv";
 "Ignore shortcuts while a window from these apps is active" = "Ofkiirzungen ignoréieren wann eng Fënster vun dësen Apps aktiv ass";
 "Import settings…" = "Astellungen importéieren…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Trackpad Astellunge opmaachen…";
 "Optional: email (if you want a reply)" = "Fakultativ: Email (wann Dir eng Änwert wënscht)";
 "Order windows by" = "Bestellen Windows vum";
-"Please fill in the form" = "Fëllt w.e.g. de Formulaire aus";
 "Policies" = "Politik";
 "Preferences…" = "Astellung…";
 "Preview selected window" = "Preview ausgewielt Fënster";
@@ -192,12 +189,8 @@
 "Send" = "Fortschécken";
 "Send a crash report?" = "Schéckt e Crash Bericht?";
 "Send anyway" = "Schéckt iwwerhaapt";
-"Send debug profile (CPU, memory, etc)" = "Schéckt Debug Profil (CPU, Memory, etc)";
-"Send feedback" = "Schéckt Feedback";
-"Send feedback…" = "Schéckt Feedback ...";
 "Settings imported" = "Astellunge importéiert";
 "Settings…" = "Astellungen";
-"Share improvement ideas, or report bugs" = "Deelt d'Verbesserung Iddien, oder Rapporte berichten";
 "Shortcut" = "Ofkierzung";
 "Shortcut 1" = "Ofkiirzung 1";
 "Shortcut 2" = "Ofkiirzung 2";
@@ -266,7 +259,6 @@
 "Version" = "Versioun";
 "Vertical Swipe with Four Fingers" = "Vertikal wëschen mat véier Fangeren";
 "Vertical Swipe with Three Fingers" = "Vertikal wëschen mat dräi Fangeren";
-"View existing discussions" = "Kuckt existent Diskussiounen";
 "Vim keys" = "Vim Tasten";
 "Vim keys already assigned to other actions:\n%@" = "Vim Schlësselen déi scho fir aner Aktiounen zougewisen hunn: \\ n% @";
 "Visibility" = "Visatierlechung";

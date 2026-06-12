@@ -19,7 +19,6 @@
 "Align windows" = "Justera fönster";
 "Align windows:" = "Justera fönster:";
 "All apps" = "Alla appar";
-"All data from this form will be made public, as a ticket on github.com" = "All information i detta formulär kommer göras offentlig i form av ett ärende på github.com";
 "All screens" = "Alla skärmar";
 "All Spaces" = "Alla skrivbord";
 "Allowed" = "Tillåten";
@@ -112,7 +111,6 @@
 "Hold" = "Håll ned";
 "Horizontal Swipe with Four Fingers" = "Horisontellt svep med fyra fingrar";
 "Horizontal Swipe with Three Fingers" = "Horisontellt svep med tre fingrar";
-"I think the app could be improved with…" = "Jag tycker att appen kan förbättras genom…";
 "Ignore shortcuts when active" = "Ignorera kortkommandon när aktiv";
 "Ignore shortcuts while a window from these apps is active" = "Ignorera kortkommandon när dessa appars fönster är aktiva";
 "Import settings…" = "Importera inställningar…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Öppna inställningar för styrplatta…";
 "Optional: email (if you want a reply)" = "Valfritt: e-postadress (om du önskar svar)";
 "Order windows by" = "Sortera fönster efter";
-"Please fill in the form" = "Vänligen fyll i formuläret";
 "Policies" = "Policy";
 "Preferences…" = "Inställningar…";
 "Preview selected window" = "Förhandsvisa valt fönster";
@@ -192,12 +189,8 @@
 "Send" = "Skicka";
 "Send a crash report?" = "Skicka kraschrapport?";
 "Send anyway" = "Skicka ändå";
-"Send debug profile (CPU, memory, etc)" = "Skicka felsökningsinfo (CPU, minne, osv.)";
-"Send feedback" = "Skicka feedback";
-"Send feedback…" = "Skicka feedback…";
 "Settings imported" = "Inställningar importerade";
 "Settings…" = "Inställningar";
-"Share improvement ideas, or report bugs" = "Dela förbättringsförslag eller rapportera fel";
 "Shortcut" = "Genväg";
 "Shortcut 1" = "1";
 "Shortcut 2" = "2";
@@ -266,7 +259,6 @@
 "Version" = "Version";
 "Vertical Swipe with Four Fingers" = "Vertikalt svep med fyra fingrar";
 "Vertical Swipe with Three Fingers" = "Vertikalt svep med tre fingrar";
-"View existing discussions" = "Visa befintliga diskussioner";
 "Vim keys" = "Vim-tangenter";
 "Vim keys already assigned to other actions:\n%@" = "Vim-tangenter används redan för följande:\n%@";
 "Visibility" = "Synlighet";

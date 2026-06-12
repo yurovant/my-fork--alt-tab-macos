@@ -19,7 +19,6 @@
 "Align windows" = "יישר חלונות";
 "Align windows:" = "יישר חלונות:";
 "All apps" = "כל היישומים";
-"All data from this form will be made public, as a ticket on github.com" = "כל המידע מטופס זה ייהפך לציבורי, ככרטיס ב-github.com";
 "All screens" = "כל המסכים";
 "All Spaces" = "כל השטחים";
 "Allowed" = "מאופשר";
@@ -112,7 +111,6 @@
 "Hold" = "החזק";
 "Horizontal Swipe with Four Fingers" = "החלקה אופקית עם ארבע אצבעות";
 "Horizontal Swipe with Three Fingers" = "החלקה אופקית עם שלוש אצבעות";
-"I think the app could be improved with…" = "אני חושב שניתן לשפר את היישום באמצעות…";
 "Ignore shortcuts when active" = "התעלם מהקיצורים כאשר פועל";
 "Ignore shortcuts while a window from these apps is active" = "התעלם מקיצורי דרך כאשר חלון מיישום זו פעיל";
 "Import settings…" = "ייבא הגדרות…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "פתח הגדרות משטח מגע…";
 "Optional: email (if you want a reply)" = "אופציונלי: אימייל (אם אתה רוצה תשובה)";
 "Order windows by" = "להזמין חלונות על ידי";
-"Please fill in the form" = "אנא מלא את הטופס";
 "Policies" = "מדיניות";
 "Preferences…" = "העדפות";
 "Preview selected window" = "תצוגה מקדימה של חלון שנבחר";
@@ -192,12 +189,8 @@
 "Send" = "שלח";
 "Send a crash report?" = "לשלוח דיווח קריסה?";
 "Send anyway" = "שלח בכל זאת";
-"Send debug profile (CPU, memory, etc)" = "שלח נתוני מערכת (מעבד, זכרון וכו')";
-"Send feedback" = "שלח משוב";
-"Send feedback…" = "שלח משוב...";
 "Settings imported" = "הגדרות יובאו";
 "Settings…" = "הגדרות";
-"Share improvement ideas, or report bugs" = "שתף רעיונות לשיפור, או דווח על באגים";
 "Shortcut" = "קיצור דרך";
 "Shortcut 1" = "קיצור דרך 1";
 "Shortcut 2" = "קיצור דרך 2";
@@ -266,7 +259,6 @@
 "Version" = "גרסה";
 "Vertical Swipe with Four Fingers" = "החלקה אנכית עם ארבע אצבעות";
 "Vertical Swipe with Three Fingers" = "החלקה אנכית עם שלוש אצבעות";
-"View existing discussions" = "הצג דיונים קיימים";
 "Vim keys" = "מקשי Vim";
 "Vim keys already assigned to other actions:\n%@" = "Vim Keys כבר הוקצה לפעולות אחרות: \\ n%@";
 "Visibility" = "רְאוּת";

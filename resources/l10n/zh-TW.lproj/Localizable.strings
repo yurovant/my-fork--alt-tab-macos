@@ -19,7 +19,6 @@
 "Align windows" = "對齊視窗";
 "Align windows:" = "排列視窗：";
 "All apps" = "全部程式";
-"All data from this form will be made public, as a ticket on github.com" = "此表單的所有資料都會被公開為 GitHub 上的 Ticket";
 "All screens" = "全部顯示器";
 "All Spaces" = "全部空間";
 "Allowed" = "允許";
@@ -112,7 +111,6 @@
 "Hold" = "按住";
 "Horizontal Swipe with Four Fingers" = "用四指左右滑動";
 "Horizontal Swipe with Three Fingers" = "用三指左右滑動";
-"I think the app could be improved with…" = "我覺得這個程式可以改善⋯";
 "Ignore shortcuts when active" = "活躍時忽略快速鍵";
 "Ignore shortcuts while a window from these apps is active" = "當這些程式的視窗活躍時，忽略快速鍵";
 "Import settings…" = "匯入設定…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "開啟觸控式軌跡板設定⋯";
 "Optional: email (if you want a reply)" = "電子信箱（選填，如果你想要收到回覆）";
 "Order windows by" = "視窗排序";
-"Please fill in the form" = "請填寫表單";
 "Policies" = "策略";
 "Preferences…" = "偏好設定⋯";
 "Preview selected window" = "預覽選定的視窗";
@@ -192,12 +189,8 @@
 "Send" = "送出";
 "Send a crash report?" = "要送出當機報告嗎？";
 "Send anyway" = "直接送出";
-"Send debug profile (CPU, memory, etc)" = "送出 debug 資訊（包括處理器、記憶體⋯等）";
-"Send feedback" = "送出回饋";
-"Send feedback…" = "送出回饋⋯";
 "Settings imported" = "設定已輸入";
 "Settings…" = "設定⋯";
-"Share improvement ideas, or report bugs" = "分享建議，或是回報問題";
 "Shortcut" = "快速鍵";
 "Shortcut 1" = "快速鍵 1";
 "Shortcut 2" = "快速鍵 2";
@@ -266,7 +259,6 @@
 "Version" = "版本";
 "Vertical Swipe with Four Fingers" = "用四指上下滑動";
 "Vertical Swipe with Three Fingers" = "用三指上下滑動";
-"View existing discussions" = "查看目前的討論";
 "Vim keys" = "Vim 快速鍵";
 "Vim keys already assigned to other actions:\n%@" = "Vim 快速鍵已經被其它操作佔用：\n%@";
 "Visibility" = "能見度";

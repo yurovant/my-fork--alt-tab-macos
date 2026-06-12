@@ -88,7 +88,6 @@ class App: AppCenterApplication {
     private static func allSecondaryWindowsCanBecomeKey(_ canBecomeKey_: Bool) {
         SettingsWindow.canBecomeKey_ = canBecomeKey_
         PermissionsWindow.canBecomeKey_ = canBecomeKey_
-        FeedbackWindow.canBecomeKey_ = canBecomeKey_
         DebugWindow.canBecomeKey_ = canBecomeKey_
     }
 
@@ -142,11 +141,6 @@ class App: AppCenterApplication {
         showPermissionsWindow()
     }
 
-    @objc static func showFeedbackPanel() {
-        initializeFeedbackWindowIfNeeded()
-        showSecondaryWindow(FeedbackWindow.shared!)
-    }
-
     @objc static func showDebugWindow() {
         initializeDebugWindowIfNeeded()
         showSecondaryWindow(DebugWindow.shared!)
@@ -181,10 +175,6 @@ class App: AppCenterApplication {
 
     private static func initializeSettingsWindowIfNeeded() {
         if SettingsWindow.shared == nil { _ = SettingsWindow() }
-    }
-
-    private static func initializeFeedbackWindowIfNeeded() {
-        if FeedbackWindow.shared == nil { _ = FeedbackWindow() }
     }
 
     private static func initializeDebugWindowIfNeeded() {

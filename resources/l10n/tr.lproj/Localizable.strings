@@ -19,7 +19,6 @@
 "Align windows" = "Pencereleri hizalayın";
 "Align windows:" = "Pencereleri hizala:";
 "All apps" = "Tüm uygulamalar";
-"All data from this form will be made public, as a ticket on github.com" = "Bu formdan giden bütün veriler, bilet olarak github.com üzerinde kamuya açılacaktır";
 "All screens" = "Tüm ekranlar";
 "All Spaces" = "Tüm Alanlar";
 "Allowed" = "İzin verildi";
@@ -112,7 +111,6 @@
 "Hold" = "Tut";
 "Horizontal Swipe with Four Fingers" = "Dört Parmakla Yatay Kaydırma";
 "Horizontal Swipe with Three Fingers" = "Üç Parmakla Yatay Kaydırma";
-"I think the app could be improved with…" = "Bence uygulama şu şekilde iyileştirilebilir…";
 "Ignore shortcuts when active" = "Etkinken kestirmeleri yoksay";
 "Ignore shortcuts while a window from these apps is active" = "Bu uygulamalardan bir pencere etkinken kestirmeleri devre dışı bırak";
 "Import settings…" = "Ayarları içe aktar…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Trackpad ayarlarını aç…";
 "Optional: email (if you want a reply)" = "Opsiyonel: E-Posta (Eğer bir yanıt istiyorsanız)";
 "Order windows by" = "Pencere sırası";
-"Please fill in the form" = "Lütfen formu doldurun";
 "Policies" = "Kurallar";
 "Preferences…" = "Tercihler…";
 "Preview selected window" = "Seçili pencereyi önizle";
@@ -192,12 +189,8 @@
 "Send" = "Gönder";
 "Send a crash report?" = "Çökme raporu gönder?";
 "Send anyway" = "Yine de gönder";
-"Send debug profile (CPU, memory, etc)" = "Hata ayıklama profili gönder (İşlemci, bellek, vb)";
-"Send feedback" = "Geri bildirim gönder";
-"Send feedback…" = "Geri bildirim gönder…";
 "Settings imported" = "Ayarlar içe aktarıldı";
 "Settings…" = "Ayarlar";
-"Share improvement ideas, or report bugs" = "Geliştirme önerisi veya hata bilgisi paylaşın";
 "Shortcut" = "Kısayol";
 "Shortcut 1" = "Kestirme 1";
 "Shortcut 2" = "Kestirme 2";
@@ -266,7 +259,6 @@
 "Version" = "Versiyon";
 "Vertical Swipe with Four Fingers" = "Dört Parmakla Dikey Kaydırma";
 "Vertical Swipe with Three Fingers" = "Üç Parmakla Dikey Kaydırma";
-"View existing discussions" = "Mevcut tartışmaları görüntüle";
 "Vim keys" = "Vim tuşları";
 "Vim keys already assigned to other actions:\n%@" = "Diğer eylemlere hâlihazırda atanmış Vim tuşları:\n%@";
 "Visibility" = "Görünürlük";

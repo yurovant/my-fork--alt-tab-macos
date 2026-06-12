@@ -19,7 +19,6 @@
 "Align windows" = "Juster vindaugo";
 "Align windows:" = "Juster vindaugsplasseringa:";
 "All apps" = "Alle appar";
-"All data from this form will be made public, as a ticket on github.com" = "Alle data frå dette skjemaet vil verta offentlege, som ei sak på github.com";
 "All screens" = "Alle skjermar";
 "All Spaces" = "Alle område";
 "Allowed" = "Tillate";
@@ -112,7 +111,6 @@
 "Hold" = "Hald";
 "Horizontal Swipe with Four Fingers" = "Sveip vassrett med fire fingrar";
 "Horizontal Swipe with Three Fingers" = "Sveip vassrett med tre fingrar";
-"I think the app could be improved with…" = "Eg tykkjer appen kunne ha vorte betre med …";
 "Ignore shortcuts when active" = "Ignorer snarveg når aktiv";
 "Ignore shortcuts while a window from these apps is active" = "Ignorer hurtigtastar medan eit vindauge frå desse appane er aktivt";
 "Import settings…" = "Importer innstillingar…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Opne styreflateinnstillingar …";
 "Optional: email (if you want a reply)" = "Valfritt: e-post (om du ynskjer svar)";
 "Order windows by" = "Sorter vindaugo etter";
-"Please fill in the form" = "Fyll i skjemaet";
 "Policies" = "Fornying og kræsj";
 "Preferences…" = "Val …";
 "Preview selected window" = "Førehandsvis valt vindauge";
@@ -192,12 +189,8 @@
 "Send" = "Send";
 "Send a crash report?" = "Senda ein kræsjrapport?";
 "Send anyway" = "Send likevel";
-"Send debug profile (CPU, memory, etc)" = "Send avlusingsinformasjon (CPU, minne, osb)";
-"Send feedback" = "Send tilbakemelding";
-"Send feedback…" = "Send tilbakemelding …";
 "Settings imported" = "Innstillingar importerte";
 "Settings…" = "Innstillingar";
-"Share improvement ideas, or report bugs" = "Del forbetringsidear, eller meld om feil";
 "Shortcut" = "Snarveg";
 "Shortcut 1" = "Snarveg 1";
 "Shortcut 2" = "Snarveg 2";
@@ -266,7 +259,6 @@
 "Version" = "Versjon";
 "Vertical Swipe with Four Fingers" = "Loddrett sveip med fire fingrar";
 "Vertical Swipe with Three Fingers" = "Loddrett sveip med tre fingrar";
-"View existing discussions" = "Sjå pågåande diskusjonar";
 "Vim keys" = "Vim-tastar";
 "Vim keys already assigned to other actions:\n%@" = "Vim-tastar er allereie gjevne til andre handlingar:\n%@";
 "Visibility" = "Synlegheit";

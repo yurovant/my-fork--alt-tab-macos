@@ -19,7 +19,6 @@
 "Align windows" = "উইন্ডোজ সারিবদ্ধ করুন";
 "Align windows:" = "উইন্ডো সারিবদ্ধ করুন:";
 "All apps" = "সব অ্যাপ্লিকেশান";
-"All data from this form will be made public, as a ticket on github.com" = "এই ফর্ম থেকে সমস্ত তথ্য github.com-এ একটি টিকিট হিসাবে সর্বজনীন করা হবে";
 "All screens" = "সব স্ক্রীন";
 "All Spaces" = "সমস্ত স্পেস";
 "Allowed" = "অনুমোদিত";
@@ -112,7 +111,6 @@
 "Hold" = "ধরে রাখ";
 "Horizontal Swipe with Four Fingers" = "চার আঙ্গুল দিয়ে অনুভূমিক সোয়াইপ";
 "Horizontal Swipe with Three Fingers" = "তিন আঙ্গুল দিয়ে অনুভূমিক সোয়াইপ";
-"I think the app could be improved with…" = "আমি মনে করি অ্যাপটি আরো উন্নত করা যেতে পারে...";
 "Ignore shortcuts when active" = "সক্রিয় থাকাকালীন শর্টকাট উপেক্ষা করুন";
 "Ignore shortcuts while a window from these apps is active" = "এই অ্যাপগুলির একটি উইন্ডো সক্রিয় থাকাকালীন শর্টকাটগুলি উপেক্ষা করুন৷";
 "Import settings…" = "সেটিংস আমদানি করুন…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "ট্র্যাকপ্যাড সেটিংস খুলুন…";
 "Optional: email (if you want a reply)" = "ঐচ্ছিক: ইমেল (যদি আপনি একটি উত্তর চান)";
 "Order windows by" = "দ্বারা উইন্ডোজ অর্ডার করুন";
-"Please fill in the form" = "ফর্মটি পূরণ করুন";
 "Policies" = "নীতিমালা";
 "Preferences…" = "পছন্দ…";
 "Preview selected window" = "পূর্বরূপ নির্বাচিত উইন্ডো";
@@ -192,12 +189,8 @@
 "Send" = "পাঠান";
 "Send a crash report?" = "একটি ক্র্যাশ রিপোর্ট পাঠান?";
 "Send anyway" = "যেকোন ভাবেই পাঠান";
-"Send debug profile (CPU, memory, etc)" = "ডিবাগ প্রোফাইল পাঠান (CPU, মেমরি, ইত্যাদি)";
-"Send feedback" = "মতামত পাঠান";
-"Send feedback…" = "মতামত পাঠান…";
 "Settings imported" = "সেটিংস আমদানি করা হয়েছে";
 "Settings…" = "সেটিংস";
-"Share improvement ideas, or report bugs" = "উন্নতির ধারনা শেয়ার করুন বা বাগ রিপোর্ট করুন";
 "Shortcut" = "শর্টকাট";
 "Shortcut 1" = "শর্টকাট ১";
 "Shortcut 2" = "শর্টকাট 2";
@@ -266,7 +259,6 @@
 "Version" = "সংস্করণ";
 "Vertical Swipe with Four Fingers" = "চার আঙ্গুল দিয়ে উল্লম্ব সোয়াইপ";
 "Vertical Swipe with Three Fingers" = "তিন আঙ্গুল দিয়ে উল্লম্ব সোয়াইপ";
-"View existing discussions" = "বিদ্যমান আলোচনা দেখুন";
 "Vim keys" = "ভীম কিস";
 "Vim keys already assigned to other actions:\n%@" = "ভিম কীগুলি ইতিমধ্যে অন্যান্য ক্রিয়াকলাপে নির্ধারিত: \\ n%@";
 "Visibility" = "দৃশ্যমানতা";

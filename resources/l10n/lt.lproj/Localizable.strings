@@ -19,7 +19,6 @@
 "Align windows" = "Lygiuoti langus";
 "Align windows:" = "Sulygiuoti langus:";
 "All apps" = "Visos programos";
-"All data from this form will be made public, as a ticket on github.com" = "Visi šios formos duomenys bus viešai prieinami kaip „Github.com“ užklausa.";
 "All screens" = "Visi ekranai";
 "All Spaces" = "Visi tarpai";
 "Allowed" = "Leista";
@@ -112,7 +111,6 @@
 "Hold" = "Laikyti";
 "Horizontal Swipe with Four Fingers" = "Horizontalus perbraukimas keturiais pirštais";
 "Horizontal Swipe with Three Fingers" = "Horizontalus perbraukimas trimis pirštais";
-"I think the app could be improved with…" = "Manau, kad programa gali būti pagerinta su";
 "Ignore shortcuts when active" = "Ignoruoti sparčiuosius klavišus, kai aktyvus";
 "Ignore shortcuts while a window from these apps is active" = "Ignoruoti sparčiuosius klavišus, kai aktyvus langas iš šių programų";
 "Import settings…" = "Importuoti nustatymus…";
@@ -159,7 +157,6 @@
 "Open Trackpad Settings…" = "Atidaryti jutiklinės dalies nustatymus…";
 "Optional: email (if you want a reply)" = "Pasirinktina: mailas(jei norite atsakymo)";
 "Order windows by" = "Rūšiuoti langus pagal";
-"Please fill in the form" = "Prašome užpildyti formą";
 "Policies" = "Politika";
 "Preferences…" = "Nuostatos...";
 "Preview selected window" = "Peržiūrėti pasirinktą langą";
@@ -192,12 +189,8 @@
 "Send" = "Siųsti";
 "Send a crash report?" = "Siųsti gedimų ataskaitą?";
 "Send anyway" = "Vis tiek siųsti";
-"Send debug profile (CPU, memory, etc)" = "Siųsti debuginimo informaciją (CPU, atmintį, etc)";
-"Send feedback" = "Siųsti atsiliepimą";
-"Send feedback…" = "Siųsti atsiliepimą...";
 "Settings imported" = "Nustatymai importuoti";
 "Settings…" = "Nustatymai";
-"Share improvement ideas, or report bugs" = "Pasidalinkite tobulinimo idėjomis arba praneškite apie klaidas";
 "Shortcut" = "Spartusis klavišas";
 "Shortcut 1" = "Spartusis klavišas 1";
 "Shortcut 2" = "Spartusis klavišas 2";
@@ -266,7 +259,6 @@
 "Version" = "Versija";
 "Vertical Swipe with Four Fingers" = "Vertikalus perbraukimas keturiais pirštais";
 "Vertical Swipe with Three Fingers" = "Vertikalus perbraukimas trimis pirštais";
-"View existing discussions" = "Peržiūrėti esamas diskusijas";
 "Vim keys" = "Vim klavišai";
 "Vim keys already assigned to other actions:\n%@" = "Vim klavišai jau priskirti kitiems veiksmams:\n%@";
 "Visibility" = "Matomumas";
