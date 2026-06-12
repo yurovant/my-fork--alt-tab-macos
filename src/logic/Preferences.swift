@@ -47,7 +47,7 @@ class Preferences {
             "hideStatusIcons": "false",
             "previewFocusedWindow": "false",
             "captureWindowsInBackground": "true",
-            "screenRecordingPermissionSkipped": "false",
+            "screenRecordingPermissionSkipped": "true",
             "trackpadHapticFeedbackEnabled": "true",
             "settingsWindowShownOnFirstLaunch": "false",
         ]
