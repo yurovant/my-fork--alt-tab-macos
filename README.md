@@ -1,12 +1,10 @@
-<div align="center">
-<h1>AltTab</h1>
+# AltTab
 
-<p><b>AltTab</b> brings the power of Windows Alt-Tab to macOS.</p>
+**AltTab** brings the power of Windows Alt-Tab to macOS.
 
-<div align="left">
-<b>Building the project</b>
+## Building the project
 
-<p>This project has minimal dependency on Xcode-only features (e.g. InterfaceBuilder, Playgrounds). You can build it by doing:</p>
+This project has minimal dependency on Xcode-only features (e.g. InterfaceBuilder, Playgrounds). You can build it by doing:
 1. Clean up generated and downloaded local artifacts:
 
 `scripts/wipe_generated_and_downloaded.sh`
@@ -193,7 +191,3 @@ These third-party libraries are used:
 
 **SwiftyBeaver**
 [Website](https://github.com/SwiftyBeaver/SwiftyBeaver) - [MIT License](https://github.com/SwiftyBeaver/SwiftyBeaver/blob/master/LICENSE)
-
-</div>
-
-</div>
