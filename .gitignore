@@ -1,6 +1,5 @@
 # OS and generic local metadata
 .DS_Store
-/buildServer.json
 
 # Local assistant/editor state
 /.claude/worktrees/
