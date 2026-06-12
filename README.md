@@ -2,9 +2,42 @@
 
 **AltTab** brings the power of Windows Alt-Tab to macOS.
 
+## Prerequisites (macOS)
+
+Before running the build steps below, ensure your machine is set up with:
+
+1. A recent macOS version with Xcode installed.
+
+2. Xcode Command Line Tools configured:
+
+`xcode-select -p`
+
+If this command fails, install Command Line Tools first:
+
+`xcode-select --install`
+
+3. Xcode license accepted (required by xcodebuild on fresh installs):
+
+`sudo xcodebuild -license accept`
+
+4. CocoaPods installed and available in PATH:
+
+`pod --version`
+
+If missing, install CocoaPods with your preferred method (for example RubyGems) and re-run pod --version.
+
+5. Local code-signing identity created for debug builds.
+
+This repository includes a helper script for that step:
+
+`scripts/codesign/setup_local.sh`
+
+6. Permission to grant Accessibility and Screen Recording to the built app at runtime.
+
+The app can compile without these runtime permissions, but many core features will not work correctly until permissions are granted.
+
 ## Building the project
 
-This project has minimal dependency on Xcode-only features (e.g. InterfaceBuilder, Playgrounds). You can build it by doing:
 1. Clean up generated and downloaded local artifacts:
 
 `scripts/wipe_generated_and_downloaded.sh`
