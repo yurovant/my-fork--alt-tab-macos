@@ -17,4 +17,5 @@ rm -rf \
   codesign.conf \
   codesign.crt \
   codesign.key \
-  codesign.p12
+  codesign.p12 \
+  Pods
