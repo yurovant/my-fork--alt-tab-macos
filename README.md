@@ -7,33 +7,37 @@
 <b>Building the project</b>
 
 <p>This project has minimal dependency on Xcode-only features (e.g. InterfaceBuilder, Playgrounds). You can build it by doing:</p>
-1. Wipe generated/downloaded local artifacts:
+1. Clean up generated and downloaded local artifacts:
 
-- `scripts/wipe_generated_and_downloaded.sh`
+`scripts/wipe_generated_and_downloaded.sh`
 
 2. Install CocoaPods dependencies:
 
-- `pod install`
+`pod install`
 
-3. Generate and import the local self-signed certificate used by this project:
+3. Generate and import the local self-signed certificate required for this project:
 
-- `scripts/codesign/setup_local.sh`
+`scripts/codesign/setup_local.sh`
 
 4. Build the app:
 
-- `scripts/build_app_debug.sh`
+`scripts/build_app_debug.sh`
 
 5. Run the built app:
 
-- `open DerivedData/Build/Products/Debug/AltTab.app`
+`open DerivedData/Build/Products/Debug/AltTab.app`
+
+6. Reset Accessibility permissions (if needed):
+
+If you experience issues with Accessibility permissions (e.g., if they were granted prior to this new build), reset the TCC database for this bundle ID and relaunch the app:
+
+`tccutil reset Accessibility com.lwouis.alt-tab-macos`
 
 Notes:
 
 - This historical branch still declares `MACOSX_DEPLOYMENT_TARGET = 10.12`. On modern Xcode versions you may see warnings about the minimum supported deployment target range. These warnings are expected as long as the build succeeds.
 - `Pipfile` tooling is optional for app compilation. It is used by some maintenance scripts.
 - You can also open `alt-tab-macos.xcworkspace` in Xcode and build the `Debug` scheme from there.
-- If Accessibility permission gets stuck or AltTab does not show in the list, reset TCC for this bundle ID and relaunch:
-  - `tccutil reset Accessibility com.lwouis.alt-tab-macos`
 
 ## Mac development
 
