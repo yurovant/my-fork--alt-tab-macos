@@ -105,7 +105,6 @@
 		BF0C81480366BAD71BC9A158 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BF0C8ABA423E72218605CA4F /* InfoPlist.strings */; };
 		BF0C8167D415F503D2390065 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BF0C80DDA20F902BAFB596EA /* InfoPlist.strings */; };
 		BF0C816911CAD3F1B5865BFA /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = BF0C82DF98B6161C45361197 /* Localizable.strings */; };
-		BF0C81A1933D59E1063E350D /* 20MB-photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BF0C8E1C49845D813673D7A2 /* 20MB-photo.jpg */; };
 		BF0C81A79128CF877FE895CC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BF0C8A48BBB3BF649864DB08 /* InfoPlist.strings */; };
 		BF0C81B64A1205F066AC796A /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = BF0C80404D3455D496C02F29 /* Localizable.strings */; };
 		BF0C81D836A8A4CA393B135F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BF0C82E55127D38ABF969CA0 /* InfoPlist.strings */; };
@@ -554,7 +553,6 @@
 		BF0C8DCAC388B07C369E9771 /* test-base.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "test-base.xcconfig"; sourceTree = "<group>"; };
 		BF0C8DF008F1EB5F23291A13 /* SpacesEvents.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpacesEvents.swift; sourceTree = "<group>"; };
 		BF0C8DF400A1AF64EB0CD0B3 /* TrafficLightButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrafficLightButton.swift; sourceTree = "<group>"; };
-		BF0C8E1C49845D813673D7A2 /* 20MB-photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "20MB-photo.jpg"; sourceTree = "<group>"; };
 		BF0C8E1FBCBC7B64C69D933C /* titles-style-full.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "titles-style-full.jpg"; sourceTree = "<group>"; };
 		BF0C8E25373671B528AD448D /* screen-recording@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen-recording@2x.png"; sourceTree = "<group>"; };
 		BF0C8E478D68ED85DAE6BF43 /* ga */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = ga; path = InfoPlist.strings; sourceTree = "<group>"; };
@@ -1186,7 +1184,6 @@
 		BF0C8AE65DDFD6359BE12CB3 /* resources */ = {
 			isa = PBXGroup;
 			children = (
-				BF0C8E1C49845D813673D7A2 /* 20MB-photo.jpg */,
 			);
 			path = resources;
 			sourceTree = "<group>";
@@ -2143,7 +2140,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF0C81A1933D59E1063E350D /* 20MB-photo.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
