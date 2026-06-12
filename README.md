@@ -58,7 +58,11 @@ The app can compile without these runtime permissions, but many core features wi
 
 `open DerivedData/Build/Products/Debug/AltTab.app`
 
-6. Reset Accessibility permissions (if needed):
+6. Kill the running app process (if needed before relaunching):
+
+`pkill -x AltTab`
+
+7. Reset Accessibility permissions (if needed):
 
 If you experience issues with Accessibility permissions (e.g., if they were granted prior to this new build), reset the TCC database for this bundle ID and relaunch the app:
 
