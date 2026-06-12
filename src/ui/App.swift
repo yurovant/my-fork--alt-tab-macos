@@ -87,7 +87,6 @@ class App: AppCenterApplication {
 
     private static func allSecondaryWindowsCanBecomeKey(_ canBecomeKey_: Bool) {
         SettingsWindow.canBecomeKey_ = canBecomeKey_
-        AboutWindow.canBecomeKey_ = canBecomeKey_
         PermissionsWindow.canBecomeKey_ = canBecomeKey_
         FeedbackWindow.canBecomeKey_ = canBecomeKey_
         DebugWindow.canBecomeKey_ = canBecomeKey_
@@ -167,11 +166,6 @@ class App: AppCenterApplication {
         }
     }
 
-    @objc static func showAboutWindow() {
-        initializeAboutWindowIfNeeded()
-        showSecondaryWindow(AboutWindow.shared!)
-    }
-
     static func showSecondaryWindow(_ window: NSWindow) {
         NSScreen.updatePreferred()
         App.shared.activate(ignoringOtherApps: true)
@@ -187,10 +181,6 @@ class App: AppCenterApplication {
 
     private static func initializeSettingsWindowIfNeeded() {
         if SettingsWindow.shared == nil { _ = SettingsWindow() }
-    }
-
-    private static func initializeAboutWindowIfNeeded() {
-        if AboutWindow.shared == nil { _ = AboutWindow() }
     }
 
     private static func initializeFeedbackWindowIfNeeded() {
