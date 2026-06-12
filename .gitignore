@@ -7,10 +7,6 @@
 /.idea/
 /.vscode/
 
-# Dependencies and generated outputs
-/node_modules/
-/build/
-
 # Xcode derived artifacts and caches
 /DerivedData/
 /CompilationCache.noindex/
