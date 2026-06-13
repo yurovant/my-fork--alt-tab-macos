@@ -32,7 +32,6 @@ class SystemPermissions {
             }
         }
         DispatchQueue.main.async {
-            Menubar.togglePermissionCallout(ScreenRecordingPermission.status != .granted)
             if PermissionsWindow.shared != nil {
                 PermissionsWindow.updatePermissionViews()
             }
@@ -104,6 +103,11 @@ class ScreenRecordingPermission {
         if #available(macOS 10.15, *) {
             if Preferences.screenRecordingPermissionSkipped {
                 return .skipped
+            }
+            // Avoid triggering the system permission dialog during passive checks on startup.
+            // This lets users handle permissions explicitly from AltTab's permissions UI.
+            guard CGPreflightScreenCaptureAccess() else {
+                return .notGranted
             }
             return isGrantedOnSomeDisplay() ? .granted : .notGranted
         }
