@@ -68,6 +68,12 @@ If you experience issues with Accessibility permissions (e.g., if they were gran
 
 `tccutil reset Accessibility com.lwouis.alt-tab-macos`
 
+8. Reset Video and Audio Recording permissions (if needed):
+
+If you experience issues with Screen Recording / System Audio Recording permissions, reset the TCC database for this bundle ID and relaunch the app:
+
+`tccutil reset ScreenCapture com.lwouis.alt-tab-macos`
+
 Notes:
 
 - This historical branch still declares `MACOSX_DEPLOYMENT_TARGET = 10.12`. On modern Xcode versions you may see warnings about the minimum supported deployment target range. These warnings are expected as long as the build succeeds.

@@ -9,7 +9,8 @@
 
 # Workflow
 
-- Copy commands from scripts/build_app_debug.sh and run them, to confirm compilation works after you're done with implementing a change
+- Run `scripts/build_app_debug.sh` script, to confirm compilation works after you're done with implementing a change
+- Run the built app after each successful build with command `open DerivedData/Build/Products/Debug/AltTab.app`
 
 # License / Keychain invariant
 
