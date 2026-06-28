@@ -1,6 +1,6 @@
 # AltTab
 
-**AltTab** brings the power of Windows Alt-Tab to macOS.
+Brings the power of Windows Alt-Tab to your macOS.
 
 ## Prerequisites (macOS)
 
