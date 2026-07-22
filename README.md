@@ -2,7 +2,7 @@
 
 Brings the power of Windows Alt-Tab to your macOS.
 
-## Prerequisites (macOS)
+## Prerequisites
 
 Before running the build steps below, ensure your machine is set up with:
 
