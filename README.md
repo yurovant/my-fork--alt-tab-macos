@@ -36,7 +36,7 @@ This repository includes a helper script for that step:
 
 The app can compile without these runtime permissions, but many core features will not work correctly until permissions are granted.
 
-## Building the project
+## Building from source
 
 1. Clean up generated and downloaded local artifacts:
 
