@@ -6,11 +6,13 @@ class CustomizeStyleSheet: SheetWindow {
     // exactly one place across the codebase.
     private static let labelShowTitles = NSLocalizedString("Show titles", comment: "")
     private static let labelTitleTruncation = NSLocalizedString("Title truncation", comment: "")
+    private static let labelAlignThumbnails = NSLocalizedString("Align windows", comment: "") // fork: restored v10 setting
 
     /// Pre-build search index for the open-button. See `SettingsSearchIndex.sheetSearchableStrings`.
     static let searchableStrings: [String] = [
         labelShowTitles,
         labelTitleTruncation,
+        labelAlignThumbnails, // fork: restored v10 setting
         ShowHideIllustratedView.hideStatusIconsLabel,
         ShowHideIllustratedView.hideStatusIconsSubtitle,
         ShowHideIllustratedView.hideSpaceNumberLabelsLabel,
@@ -19,6 +21,7 @@ class CustomizeStyleSheet: SheetWindow {
         IllustratedImageThemeView.placeholderLabelText,
     ] + ShowTitlesPreference.allCases.map { $0.localizedString }
       + TitleTruncationPreference.allCases.map { $0.localizedString }
+      + AlignThumbnailsPreference.allCases.map { $0.localizedString } // fork: restored v10 setting
 
     static let illustratedImageWidth = width
 
@@ -44,6 +47,9 @@ class CustomizeStyleSheet: SheetWindow {
         let titleTruncation = TableGroupView.Row(leftTitle: Self.labelTitleTruncation,
             rightViews: LabelAndControl.makeRadioButtons("titleTruncation", TitleTruncationPreference.allCases))
         advancedTable.addRow(titleTruncation)
+        // fork: restored v10 "Align windows" (read in TilesView). No illustration: upstream dropped the v10 images.
+        advancedTable.addRow(TableGroupView.Row(leftTitle: Self.labelAlignThumbnails,
+            rightViews: LabelAndControl.makeRadioButtons("alignThumbnails", AlignThumbnailsPreference.allCases)))
         advancedTable.onMouseExited = { [weak self] event, view in
             guard let self else { return }
             IllustratedImageThemeView.resetImage(self.illustratedImageView, event, view)

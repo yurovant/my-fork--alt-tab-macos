@@ -240,6 +240,20 @@ enum TitleTruncationPreference: CaseIterable, MacroPreference {
     }
 }
 
+/// fork: restored v10 "Align windows" setting, removed upstream in 9147a4a8. Same key and indexes, so a saved v10
+/// value still applies. Upstream's migrations leave the key alone.
+enum AlignThumbnailsPreference: CaseIterable, MacroPreference {
+    case leading
+    case center
+
+    var localizedString: LocalizedString {
+        switch self {
+            case .leading: return NSLocalizedString("Leading", comment: "")
+            case .center: return NSLocalizedString("Center", comment: "")
+        }
+    }
+}
+
 enum GroupAppsPreference: CaseIterable, MacroPreference {
     case mainWindow
     case allWindows

@@ -28,6 +28,7 @@ class Preferences {
             "appearanceTheme": AppearanceThemePreference.system.indexAsString,
             "showOnScreen": ShowOnScreenPreference.active.indexAsString,
             "titleTruncation": TitleTruncationPreference.end.indexAsString,
+            "alignThumbnails": AlignThumbnailsPreference.center.indexAsString, // fork: restored v10 setting
             "showTitles": ShowTitlesPreference.windowTitle.indexAsString,
             "fadeOutAnimation": "false",
             "previewFadeInAnimation": "true",
@@ -128,6 +129,7 @@ class Preferences {
     static var appearanceTheme: AppearanceThemePreference { CachedUserDefaults.macroPref("appearanceTheme", AppearanceThemePreference.allCases) }
     static var showOnScreen: ShowOnScreenPreference { CachedUserDefaults.macroPref("showOnScreen", ShowOnScreenPreference.allCases) }
     static var titleTruncation: TitleTruncationPreference { CachedUserDefaults.macroPref("titleTruncation", TitleTruncationPreference.allCases) }
+    static var alignThumbnails: AlignThumbnailsPreference { CachedUserDefaults.macroPref("alignThumbnails", AlignThumbnailsPreference.allCases) } // fork: restored v10 setting
     static var showTitles: ShowTitlesPreference { CachedUserDefaults.macroPref("showTitles", ShowTitlesPreference.allCases) }
     static var updatePolicy: UpdatePolicyPreference { CachedUserDefaults.macroPref("updatePolicy", UpdatePolicyPreference.allCases) }
     static var crashPolicy: CrashPolicyPreference { CachedUserDefaults.macroPref("crashPolicy", CrashPolicyPreference.allCases) }

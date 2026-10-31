@@ -459,7 +459,10 @@ class TilesView {
         }
         if let (maxX, maxY, labelHeight, rowSignature) = layoutTileViews(widthMax) {
             layoutParentViews(maxX, widthMax, maxY, labelHeight)
-            centerRows(TilesView.thumbnailsWidth)
+            // fork: restored v10 "Align windows". Upstream always centers; `.leading` keeps rows at the leading edge.
+            if Preferences.alignThumbnails == .center {
+                centerRows(TilesView.thumbnailsWidth)
+            }
             if rowSignature != lastRowSignature {
                 for row in rows {
                     for (j, view) in row.enumerated() {
