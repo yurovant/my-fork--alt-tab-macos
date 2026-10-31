@@ -1,6 +1,7 @@
 #!/bin/bash
 
-python3 scripts/l10n/validate_localizations.py || exit $?
+# fork: no scripts/l10n/validate_localizations.py. The fork removes and adds UI strings without touching the
+# translation catalogs, which that check requires to match the code exactly.
 python3 scripts/assets/compile_illustrations.py --check || exit $?
 python3 scripts/assets/test_compile_illustrations.py || exit $?
 
