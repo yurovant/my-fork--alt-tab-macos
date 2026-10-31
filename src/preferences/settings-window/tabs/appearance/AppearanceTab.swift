@@ -149,6 +149,7 @@ class ShowHideIllustratedView {
     static let hideStatusIconsSubtitle = NSLocalizedString("AltTab will show if the window is currently minimized or fullscreen with a status icon.", comment: "")
     static let hideSpaceNumberLabelsLabel = NSLocalizedString("Hide Space number labels", comment: "")
     static let hideColoredCirclesLabel = NSLocalizedString("Hide colored circles on mouse hover", comment: "")
+    static let hideAppBadgesLabel = NSLocalizedString("Hide app badges", comment: "") // fork: restored v10 setting; not in the catalogs, so it shows as-is
 
     private let style: AppearanceStylePreference
     private var showHideRows = [ShowHideRowInfo]()
@@ -195,6 +196,18 @@ class ShowHideIllustratedView {
             self.onCheckboxClicked(sender: sender, rowId: hideStatusIcons.rowId)
         }))
         showHideRows.append(hideStatusIcons)
+        // fork: restored v10 "Hide app badges" (removed upstream in 9147a4a8; read in TileView and Applications).
+        // Upstream dropped its illustrations, so no style lists it and hovering shows the placeholder.
+        var hideAppBadges = ShowHideRowInfo()
+        hideAppBadges.rowId = "hideAppBadges"
+        hideAppBadges.uncheckedImage = "show_app_badges"
+        hideAppBadges.checkedImage = "hide_app_badges"
+        hideAppBadges.supportedStyles = []
+        hideAppBadges.leftViews = [TableGroupView.makeText(ShowHideIllustratedView.hideAppBadgesLabel)]
+        hideAppBadges.rightViews.append(LabelAndControl.makeSwitch(hideAppBadges.rowId, extraAction: { sender in
+            self.onCheckboxClicked(sender: sender, rowId: hideAppBadges.rowId)
+        }))
+        showHideRows.append(hideAppBadges)
         var hideSpaceNumberLabels = ShowHideRowInfo()
         hideSpaceNumberLabels.rowId = "hideSpaceNumberLabels"
         hideSpaceNumberLabels.uncheckedImage = "show_space_number_labels"

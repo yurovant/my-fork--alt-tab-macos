@@ -1253,7 +1253,8 @@ class Applications {
     }
 
     static func refreshBadgesAsync() {
-        guard SwitcherSession.isActive else { return }
+        // fork: restored v10 "Hide app badges". When hidden, skip the Dock AX query, not just the drawing
+        guard SwitcherSession.isActive, !Preferences.hideAppBadges else { return }
         dockBadgeThrottler.throttleOrProceed {
             let dockPid = list.first { $0.bundleIdentifier == "com.apple.dock" }?.pid
             AXCallScheduler.shared.schedule(key: "badges", context: "badges", pid: dockPid) {

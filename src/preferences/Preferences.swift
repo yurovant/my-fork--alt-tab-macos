@@ -41,6 +41,7 @@ class Preferences {
             "hideThumbnails": "false",
             "hideSpaceNumberLabels": "false", // fork: v10 default, Space numbers shown
             "hideStatusIcons": "false",
+            "hideAppBadges": "false", // fork: restored v10 setting
             "previewFocusedWindow": "false",
             "captureWindowsInBackground": "true",
             "screenRecordingPermissionSkipped": "true", // fork: never ask for Screen Recording unless the user does
@@ -113,6 +114,7 @@ class Preferences {
     static var previewFadeInAnimation: Bool { CachedUserDefaults.bool("previewFadeInAnimation") }
     static var hideSpaceNumberLabels: Bool { CachedUserDefaults.bool("hideSpaceNumberLabels") }
     static var hideStatusIcons: Bool { CachedUserDefaults.bool("hideStatusIcons") }
+    static var hideAppBadges: Bool { CachedUserDefaults.bool("hideAppBadges") } // fork: restored v10 setting
     static var startAtLogin: Bool { CachedUserDefaults.bool("startAtLogin") }
     static var exceptions: [ExceptionEntry] { CachedUserDefaults.json("exceptions", [ExceptionEntry].self) }
     static var previewSelectedWindow: Bool { CachedUserDefaults.bool("previewFocusedWindow") }

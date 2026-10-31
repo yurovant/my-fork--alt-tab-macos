@@ -109,7 +109,8 @@ class TileView: FlippedView {
     }
 
     func updateDockLabelIcon(_ dockLabel: String?) {
-        assignIfDifferent(&dockLabelIcon.isHidden, dockLabel == nil || Appearance.iconSize == 0)
+        // fork: `hideAppBadges` is the restored v10 setting
+        assignIfDifferent(&dockLabelIcon.isHidden, dockLabel == nil || Preferences.hideAppBadges || Appearance.iconSize == 0)
         if !dockLabelIcon.isHidden, let dockLabel {
             dockLabelIcon.setText(dockLabel)
             dockLabelIcon.setAccessibilityLabel(getAccessibilityTextForBadge(dockLabel))
