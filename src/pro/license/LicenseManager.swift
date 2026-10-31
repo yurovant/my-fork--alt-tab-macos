@@ -14,14 +14,17 @@ class LicenseManager {
         return "\(App.bundleIdentifier).license"
     }
 
+    /// fork: every Pro feature is unlocked (`unlocksAllFeatures`) and the license server is never contacted
+    /// (`OfflineLicenseClient` instead of `RemoteLicenseClient`). Upstream gates are untouched; they all pass.
     static let shared: LicenseManager = {
-        let keychain = SystemKeychain(service: keychainService)
-        return LicenseManager(
+        let manager = LicenseManager(
             clock: SystemClock(),
-            keychain: keychain,
-            api: RemoteLicenseClient(baseUrl: Endpoints.licenseApiBaseUrl, keychain: keychain),
+            keychain: SystemKeychain(service: keychainService),
+            api: OfflineLicenseClient(),
             defaults: UserDefaults(suiteName: defaultsSuiteName)!
         )
+        manager.unlocksAllFeatures = true
+        return manager
     }()
 
     static let trialDuration = 14
@@ -59,6 +62,8 @@ class LicenseManager {
     var onBeforeProUnlock: () -> Void = { }
 
     private var appIsUsable = false
+    /// fork: `computeState()` returns `.pro`. Only `shared` sets it, so tests keep exercising the real states.
+    var unlocksAllFeatures = false
 
     private(set) var state: LicenseState = .trialNotStarted {
         didSet { onStateChanged?(state) }
@@ -256,6 +261,7 @@ class LicenseManager {
         #if DEBUG
         if hasMockedLicense { return mockedTrialStartDate.map(trialState) ?? state }
         #endif
+        if unlocksAllFeatures { return .pro } // fork: after the DEBUG mock, so QA tooling can still simulate trial states
         if keychain.value(account: Self.keychainKeyAccount) != nil {
             let lastValidationResult = defaults.bool(forKey: "lastValidationResult")
             guard lastValidationResult else { return .trialExpired }
@@ -334,4 +340,20 @@ class LicenseManager {
         state = .pro
     }
     #endif
+}
+
+/// fork: fails every call locally, so no path (Settings, `<bundleId>://activate`) reaches the license server. Lives in
+/// this file rather than its own, so the project file needs no new entry (fewer rebase conflicts).
+struct OfflineLicenseClient: LicenseAPI {
+    func activate(_ licenseKey: String, completion: @escaping (Result<ActivateResult, Error>) -> Void) {
+        completion(.failure(LicenseAPIError.noData))
+    }
+
+    func validate(_ licenseKey: String, instanceId: String, completion: @escaping (Result<ValidateResult, Error>) -> Void) {
+        completion(.failure(LicenseAPIError.noData))
+    }
+
+    func deactivate(_ licenseKey: String, instanceId: String, completion: @escaping (Result<Void, Error>) -> Void) {
+        completion(.failure(LicenseAPIError.noData))
+    }
 }
