@@ -25,6 +25,9 @@ DEAD_CODE_STRIPPING = YES
 OTHER_LDFLAGS = $(inherited) -weak_framework ScreenCaptureKit // SDK 26 header bug: a stray `;` between API_AVAILABLE and `@interface SCScreenshotConfiguration` detaches the annotation, so the class ref links strongly and dyld aborts at launch on any macOS below 26
 DOMAIN = alt-tab.app
 API_DOMAIN = alt-tab.app/api
+// fork: ship English only. Only en.lproj is copied into the app; frameworks follow the app's language.
+EXCLUDED_SOURCE_FILE_NAMES = *.lproj/*
+INCLUDED_SOURCE_FILE_NAMES = */en.lproj/*
 // fork: upstream sets this in the gitignored config/local.xcconfig (CI writes it); without it Info.plist has no
 // CFBundleVersion and the app crashes at launch (App.version). Bump it to the upstream tag on every rebase.
 CURRENT_PROJECT_VERSION = 11.10.1

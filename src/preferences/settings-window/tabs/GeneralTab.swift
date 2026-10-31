@@ -19,8 +19,7 @@ class GeneralTab {
                 menubarIconDropdown!,
                 menuIconShownToggle!,
             ])
-        let language = TableGroupView.Row(leftTitle: NSLocalizedString("Language", comment: ""),
-            rightViews: [LabelAndControl.makeDropdown("language", LanguagePreference.allCases, extraAction: setLanguageCallback)])
+        // fork: no "Language" row: the app ships English only (see config/base.xcconfig)
         // fork: no "Updates policy" row or "Check for updates now…" button: there is no updater (see App.swift)
         crashPolicyDropdown = LabelAndControl.makeDropdown("crashPolicy", CrashPolicyPreference.allCases)
         let crashPolicy = TableGroupView.Row(leftTitle: NSLocalizedString("Crash reports policy", comment: ""),
@@ -42,8 +41,6 @@ class GeneralTab {
         table.addRow(startAtLogin)
         table.addRow(menubarIcon)
         table.addRow(captureWindowsInBackground)
-        table.addNewTable()
-        table.addRow(language)
         table.addNewTable()
         table.addRow(crashPolicy)
         let exportButton = NSButton(title: NSLocalizedString("Export settings…", comment: ""), target: nil, action: nil)
