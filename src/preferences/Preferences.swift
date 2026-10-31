@@ -39,7 +39,7 @@ class Preferences {
             "updatePolicy": UpdatePolicyPreference.autoCheck.indexAsString,
             "crashPolicy": CrashPolicyPreference.ask.indexAsString,
             "hideThumbnails": "false",
-            "hideSpaceNumberLabels": "true",
+            "hideSpaceNumberLabels": "false", // fork: v10 default, Space numbers shown
             "hideStatusIcons": "false",
             "previewFocusedWindow": "false",
             "captureWindowsInBackground": "true",
