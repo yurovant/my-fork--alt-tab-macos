@@ -415,7 +415,7 @@ class SettingsWindow: NSWindow {
         let logo = setupLogo(sidebarContainer)
         setupSearchField(sidebarContainer, below: logo)
         setupQuitButton(sidebarContainer)
-        setupUpgradeButton(sidebarContainer)
+        // fork: no `setupUpgradeButton`. Pro is always unlocked, so the button would only show "Pro activated".
         setupSidebarTable(sidebarContainer)
         // Match macOS System Settings: Tab cycles between the search field and the sidebar
         // table only. The nextValidKeyView overrides on these two subclasses keep AppKit's
@@ -533,7 +533,8 @@ class SettingsWindow: NSWindow {
             // too far in.
             sidebarScrollView.leadingAnchor.constraint(equalTo: parent.leadingAnchor),
             sidebarScrollView.trailingAnchor.constraint(equalTo: parent.trailingAnchor),
-            sidebarScrollView.bottomAnchor.constraint(equalTo: upgradeButton.topAnchor, constant: -10),
+            // fork: the upgrade button is never added, so the table ends above the quit button (upstream: button top - 10).
+            sidebarScrollView.bottomAnchor.constraint(equalTo: quitButton.topAnchor, constant: -20),
         ])
     }
 

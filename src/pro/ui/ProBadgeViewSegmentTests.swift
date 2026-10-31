@@ -12,6 +12,15 @@ import Cocoa
 /// These tests catch the regressions we keep hitting: wrong textColor in one state, or the
 /// Pro segment ending up wider than its siblings.
 final class ProBadgeViewSegmentTests: XCTestCase {
+    override func setUp() {
+        super.setUp()
+        ProBadgeView.isShown = true // fork: badges are hidden in the app; these tests pin the visible badge
+    }
+
+    override func tearDown() {
+        ProBadgeView.isShown = false
+        super.tearDown()
+    }
 
     // MARK: - Helpers
 

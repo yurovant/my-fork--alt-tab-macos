@@ -173,6 +173,10 @@ class ProBadgeView: NSView {
     /// duplicating the `NSLocalizedString` call.
     static let proLabel = NSLocalizedString("Pro", comment: "")
 
+    /// fork: Pro is always unlocked, so badges are hidden, zero-size views. Layouts that reserve room
+    /// for the badge (e.g. `attach`) collapse that room to nothing.
+    static var isShown = false
+
     /// Bundle returned from `attach(to:segmentIndex:)`: the badge plus the icon and label
     /// overlays we render on top of the Pro segment. Callers store this to drive
     /// `refreshSelection` after click / window-key / Pro-lock transitions.
@@ -290,6 +294,7 @@ class ProBadgeView: NSView {
 
     override init(frame frameRect: NSRect) {
         super.init(frame: frameRect)
+        guard Self.isShown else { hideWithZeroSize(); return } // fork: skip layers, label and search registration
         // Register the "Pro" tag with the search index if a section build is in progress —
         // mirrors what the post-construction walk in `SettingsWindow.collectSearchContent` does
         // when it spots a `ProBadgeView`, just without needing the walk to find it after.
@@ -329,6 +334,13 @@ class ProBadgeView: NSView {
 
     required init?(coder: NSCoder) {
         fatalError("Class only supports programmatic initialization")
+    }
+
+    /// fork: zero-size constraints so `fittingSize` is 0 and hosting layouts reserve no room for the badge.
+    private func hideWithZeroSize() {
+        translatesAutoresizingMaskIntoConstraints = false
+        isHidden = true
+        NSLayoutConstraint.activate([widthAnchor.constraint(equalToConstant: 0), heightAnchor.constraint(equalToConstant: 0)])
     }
 
     /// The badge is a decoration on top of an interactive parent (style tile, segmented control,

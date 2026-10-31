@@ -96,7 +96,7 @@ class Menubar {
         case .pro:
             toggleUpgradeMenuItem(false)
             supportProjectMenuItem.isHidden = true
-            myAccountMenuItem.isHidden = false
+            myAccountMenuItem.isHidden = true // fork: no license account
         case .proExpired:
             toggleUpgradeMenuItem(true)
             supportProjectMenuItem.isHidden = false
