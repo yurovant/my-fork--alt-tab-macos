@@ -43,7 +43,7 @@ class Preferences {
             "hideStatusIcons": "false",
             "previewFocusedWindow": "false",
             "captureWindowsInBackground": "true",
-            "screenRecordingPermissionSkipped": "false",
+            "screenRecordingPermissionSkipped": "true", // fork: never ask for Screen Recording unless the user does
             "trackpadHapticFeedbackEnabled": "true",
             "settingsWindowShownOnFirstLaunch": "false",
         ]

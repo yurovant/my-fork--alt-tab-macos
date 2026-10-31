@@ -127,7 +127,9 @@ class Menubar {
     // (settings can change). Decision logic lives in `PermissionCalloutResolver` (unit-tested).
     static func refreshPermissionCallout() {
         let dependentFeatures = Preferences.screenRecordingDependentFeatures
-        let show = PermissionCalloutResolver.shouldShowCallout(
+        // fork: a skipped permission is never nagged about, even when Thumbnails or previews would need it. Screen
+        // Recording is skipped by default (see Preferences).
+        let show = !Preferences.screenRecordingPermissionSkipped && PermissionCalloutResolver.shouldShowCallout(
             screenRecordingGranted: ScreenRecordingPermission.status == .granted,
             dependentFeatures: dependentFeatures)
         if show { permissionCallout?.update(dependentFeatures) }
