@@ -2,9 +2,11 @@
 
 #include "base.xcconfig"
 
-CODE_SIGN_IDENTITY = Developer ID Application: Louis Pontoise (QXD7GW8FHY)
-CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO // for notarization
-OTHER_CODE_SIGN_FLAGS = --timestamp --deep --options runtime // for notarization
+// fork: signed with the local certificate (scripts/codesign/setup_local.sh), like Debug, so Release builds without
+// upstream's Developer ID. Not notarized: no timestamp server, no hardened runtime.
+CODE_SIGN_IDENTITY = Local Self-Signed
+CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO // keeps the debug-only get-task-allow entitlement out of Release
+OTHER_CODE_SIGN_FLAGS = --timestamp=none
 SWIFT_COMPILATION_MODE = wholemodule
 SWIFT_OPTIMIZATION_LEVEL = -Osize // -16% binary, -8% download; measured +2% on fuzzy search, the only CPU-bound Swift path (most of its time is in system libraries)
 GCC_OPTIMIZATION_LEVEL = s // optimize for size; Xcode default for Release but explicit
